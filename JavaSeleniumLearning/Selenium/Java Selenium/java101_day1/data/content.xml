@@ -1,0 +1,3556 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-47826.84834419238" y="-36894.83281631307" width="95653.69668838476" height="73789.66563262614"/>
+      <aspectratio>off</aspectratio>
+      <spellcheck active="true"/>
+    </settings>
+    <object id="116" type="button" x="-584.9184342300041" y="-16873.670903140723" r="45.12817600398288" s="37.815418263035426" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="17" type="button" x="-2335.2374353940627" y="-5567.558415072078" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="18" type="button" x="634.6287772217191" y="-5568.548660948407" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="19" type="button" x="-846.937493106653" y="-4086.744731609716" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="20" type="button" x="-2036.3812299179754" y="-5602.613119094124" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="21" type="button" x="933.4453728627532" y="-5603.68258464056" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="22" type="button" x="-548.081287630566" y="-4121.839045466815" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="23" type="button" x="-1706.6293531004237" y="-5642.579442662762" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="24" type="button" x="1263.5141283607302" y="-5643.6489082091975" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="25" type="button" x="-218.21058130785485" y="-4161.805369035453" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="39" type="label" x="38851.22749222124" y="344.52634529238" r="5.008238881210545e-15" s="85.95491350046227" class="head">
+      <textfield>
+        <x>-87.15</x>
+        <y>-48.4</y>
+        <text><![CDATA[Variables,Methods & Arrays]]></text>
+        <w>174.35</w>
+        <h>96.85</h>
+        <annotations>r0-11 { align: center; }
+r11-27 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="184" type="button" x="19343.462948210366" y="826.1423297037444" r="45.12817600398288" s="37.815418263035426" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="146" type="label" x="22880.898487302868" y="629.9548166854463" r="45.12630377591357" s="22.32288953213861" class="strong">
+      <textfield>
+        <x>-35.65</x>
+        <y>-15.7</y>
+        <text><![CDATA[Arrays]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="251" type="image" x="8479.000120984449" y="-314.81896900251047" r="49.14113669577559" s="2.7771727236652772">
+      <source w="1050" h="750">
+        _questionmark.jpg
+        <url>_questionmark.jpg</url>
+      </source>
+      <sourceUrl>questionmark.jpg</sourceUrl>
+    </object>
+    <object id="252" type="label" x="8086.743924453012" y="445.92752302846793" r="75.2020804376136" s="11.752941873208107" class="strong">
+      <textfield>
+        <x>-26.15</x>
+        <y>-15.7</y>
+        <text><![CDATA[Quiz]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="253" type="label" x="7167.043164353705" y="383.89852133522044" r="75.10771986150569" s="4.07608819482057" class="body">
+      <textfield>
+        <x>-169.85</x>
+        <y>-110.3</y>
+        <text><![CDATA[Which of the following is valid?char alphabet = ‘1’;float f = 23.34; byte b = 23; int a = b;int x = 1; boolean y = x;short n=12;]]></text>
+        <annotations>r0-33 { align: left; }
+r34-55 { bullet: true; }
+r34-55 { align: left; }
+r34-55 { blockIndent: 36; }
+r55-73 { bullet: true; }
+r55-73 { align: left; }
+r55-73 { blockIndent: 36; }
+r73-97 { bullet: true; }
+r73-97 { align: left; }
+r73-97 { blockIndent: 36; }
+r97-123 { bullet: true; }
+r97-123 { align: left; }
+r97-123 { blockIndent: 36; }
+r123-134 { bullet: true; }
+r123-134 { align: left; }
+r123-134 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="3" type="button" x="0" y="0" r="0" s="115.13444473806544">
+      <type>invisible</type>
+      <size>
+        <w>799.3134897360703</w>
+        <h>609.4</h>
+      </size>
+    </object>
+    <object id="192" type="label" x="4883.53617353907" y="-24962.11805050102" r="45.12568257298829" s="20.41916720281466" class="strong">
+      <textfield>
+        <x>-98.85</x>
+        <y>-15.7</y>
+        <text><![CDATA[Java & its benefits]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="258" type="label" x="-3554.3093288251475" y="-23374.951959920927" r="45.12568257298829" s="20.41916720281466" class="strong">
+      <textfield>
+        <x>-112.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[How does Java work]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="261" type="image" x="4261.305274688989" y="-9987.26342013865" r="45.12506643657828" s="5.583928232682826">
+      <source w="364" h="525">
+        __helloWorld.jpg
+        <url>__helloWorld.jpg</url>
+      </source>
+      <sourceUrl>helloWorld.jpg</sourceUrl>
+    </object>
+    <object id="268" type="label" x="3787.7696966284693" y="-16004.829171249672" r="45.1263251130969" s="21.60530654717517" class="strong">
+      <textfield>
+        <x>-110.1</x>
+        <y>-15.7</y>
+        <text><![CDATA[First Java Program]]></text>
+        <w>220.25</w>
+        <h>31.45</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="269" type="image" x="-4288.754890380828" y="-20600.75833246775" r="45.12567987585979" s="5.568363364696068">
+      <source w="1413" h="450">
+        _howDoesJavaWork.jpg
+        <url>_howDoesJavaWork.jpg</url>
+      </source>
+      <sourceUrl>howDoesJavaWork.jpg</sourceUrl>
+    </object>
+    <object id="272" type="image" x="-5665.8304158389665" y="-11804.206163862124" r="45.12509302723367" s="5.402652847194035">
+      <source w="1488" h="910">
+        _javaSourceCode.jpg
+        <url>_javaSourceCode.jpg</url>
+      </source>
+      <sourceUrl>javaSourceCode.jpg</sourceUrl>
+    </object>
+    <object id="274" type="image" x="8412.732866940514" y="-20912.606563841277" r="45.125076259126466" s="6.143404881315692">
+      <source w="150" h="213">
+        _java_logo.jpg
+        <url>_java_logo.jpg</url>
+      </source>
+      <sourceUrl>java_logo.jpg</sourceUrl>
+    </object>
+    <object id="275" type="label" x="5080.199004578006" y="-23436.06993540795" r="45.12636779133392" s="8.777945842048096" class="body">
+      <textfield>
+        <x>-366.35</x>
+        <y>-32.95</y>
+        <text><![CDATA[Java is a programming language developed by Sun Microsystems (now a subsidiary of Oracle Corporation) in Year 1995]]></text>
+        <w>732.75</w>
+        <h>65.9</h>
+        <annotations>r0-114 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="278" type="image" x="3494.4588680598245" y="-20931.738114171952" r="45.12508862215151" s="4.897794727829599">
+      <source w="575" h="465">
+        _benefits.jpg
+        <url>_benefits.jpg</url>
+      </source>
+      <sourceUrl>benefits.jpg</sourceUrl>
+    </object>
+    <object id="277" type="label" x="4140.812156457278" y="-18666.808135997246" r="45.12636779133392" s="8.777945842048096" class="body">
+      <textfield>
+        <x>-93.65</x>
+        <y>-17.45</y>
+        <text><![CDATA[Time to market]]></text>
+        <annotations>r0-14 { bullet: true; }
+r0-14 { align: left; }
+r0-14 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="279" type="label" x="2393.8203814376852" y="-23912.893129777884" r="45.12568086046142" s="8.777945610566887" class="body">
+      <textfield>
+        <x>-161.5</x>
+        <y>-17.45</y>
+        <text><![CDATA[Write once and run anywhere]]></text>
+        <annotations>r0-27 { bullet: true; }
+r0-27 { align: left; }
+r0-27 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="281" type="label" x="2102.925752807283" y="-22372.14976588009" r="45.12568086046142" s="8.777945610566887" class="body">
+      <textfield>
+        <x>-58.1</x>
+        <y>-17.45</y>
+        <text><![CDATA[Security]]></text>
+        <annotations>r0-8 { bullet: true; }
+r0-8 { align: left; }
+r0-8 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="282" type="label" x="6337.969706856027" y="-19950.879768750565" r="45.12568086046142" s="8.777945610566887" class="body">
+      <textfield>
+        <x>-166.65</x>
+        <y>-17.45</y>
+        <text><![CDATA[Network-centric Programming]]></text>
+        <annotations>r0-27 { bullet: true; }
+r0-27 { align: left; }
+r0-27 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="283" type="label" x="4891.2204815393825" y="-19575.616191456935" r="45.12568086046142" s="8.777945610566887" class="body">
+      <textfield>
+        <x>-80.2</x>
+        <y>-17.45</y>
+        <text><![CDATA[Performance]]></text>
+        <annotations>r0-11 { bullet: true; }
+r0-11 { align: left; }
+r0-11 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="285" type="label" x="1048.2742846818621" y="-21776.021748330044" r="45.12568086046142" s="8.777945610566887" class="body">
+      <textfield>
+        <x>-95.2</x>
+        <y>-17.45</y>
+        <text><![CDATA[Object Oriented]]></text>
+        <annotations>r0-15 { bullet: true; }
+r0-15 { align: left; }
+r0-15 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="289" type="label" x="-4811.446273742319" y="-15232.041289362533" r="45.12570014309145" s="21.53448143786847" class="strong">
+      <textfield>
+        <x>-110.1</x>
+        <y>-15.7</y>
+        <text><![CDATA[Java Source Code]]></text>
+        <w>220.25</w>
+        <h>31.45</h>
+        <annotations>r0-16 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="298" type="button" x="4322.145981330641" y="-21756.81097832926" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="299" type="button" x="-4288.200352690084" y="-20600.956381643016" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="300" type="button" x="3132.7418543543727" y="-13140.919267401092" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="301" type="button" x="-5517.016265544246" y="-11960.546182816945" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="302" type="button" x="2574.758107960517" y="-13299.87353546942" r="45.12636571083908" s="4.117636509903701" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>793.469387755102</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="291" type="video" x="2562.875157444569" y="-13323.401777490997" r="45.035018697880034" s="8.649251540348653" onFocus="start" onLeave="pause">
+      <source>
+        _hello_world_24bit.flv
+        <url>_hello_world_24bit.flv</url>
+      </source>
+    </object>
+    <object id="303" type="label" x="-578.6996901266581" y="-32269.340421107856" r="0" s="85.95491350046227" class="strong">
+      <textfield>
+        <x>-83.1</x>
+        <y>-15.7</y>
+        <text><![CDATA[Getting Started]]></text>
+        <annotations>r0-15 { color: #322c69; }
+r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="304" type="image" x="-1398.504446221897" y="-5103.133099073784" r="-5.001711893974424" s="3.5797130754179523">
+      <source w="505" h="788">
+        _prerequisites.jpg
+        <url>_prerequisites.jpg</url>
+      </source>
+      <sourceUrl>prerequisites.jpg</sourceUrl>
+    </object>
+    <object id="305" type="label" x="22.49838631019451" y="-5628.755610229209" r="0" s="7.378422717253696" class="strong">
+      <textfield>
+        <x>-74.4</x>
+        <y>-15.7</y>
+        <text><![CDATA[Pre-requisites]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="306" type="label" x="64.04910328095866" y="-4902.548894364586" r="-1.0105160521081946e-14" s="2.453403437739319" class="body">
+      <textfield>
+        <x>-246.2</x>
+        <y>-218.65</y>
+        <text><![CDATA[Following software need to be installed on local workstations:JDK1.6EclipseJava APIsSet up environment variables:JAVA_HOMEPATHCLASSPATHBasic understanding of writing algorithms.No programming language experience required.]]></text>
+        <w>492.45</w>
+        <h>437.3</h>
+        <annotations>r0-63 { bullet: true; }
+r0-63 { align: left; }
+r0-63 { blockIndent: 36; }
+r63-70 { bullet: true; }
+r63-70 { align: left; }
+r63-70 { blockIndent: 72; }
+r70-78 { bullet: true; }
+r70-78 { align: left; }
+r70-78 { blockIndent: 72; }
+r78-88 { bullet: true; }
+r78-88 { align: left; }
+r78-88 { blockIndent: 72; }
+r89-119 { bullet: true; }
+r89-119 { align: left; }
+r89-119 { blockIndent: 36; }
+r119-129 { bullet: true; }
+r119-129 { align: left; }
+r119-129 { blockIndent: 72; }
+r129-134 { bullet: true; }
+r129-134 { align: left; }
+r129-134 { blockIndent: 72; }
+r134-144 { bullet: true; }
+r134-144 { align: left; }
+r134-144 { blockIndent: 72; }
+r145-188 { bullet: true; }
+r145-188 { align: left; }
+r145-188 { blockIndent: 36; }
+r189-233 { bullet: true; }
+r189-233 { align: left; }
+r189-233 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="307" type="button" x="-249.1458624843723" y="-4983.867885728721" r="3.975425226020237e-15" s="3.1181614735273464">
+      <type>invisible</type>
+      <size>
+        <w>883.9821790540541</w>
+        <h>579.8968749999999</h>
+      </size>
+    </object>
+    <object id="309" type="button" x="-19621.32594110828" y="768.866508216876" r="-44.97097109783134" s="37.815416102980386" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="311" type="label" x="-38532.883247899" y="97.40058439571884" r="5.353004656147193e-15" s="85.95491350046227" class="head">
+      <textfield>
+        <x>-57.95</x>
+        <y>-48.4</y>
+        <text><![CDATA[Operators, Loops & Keywords]]></text>
+        <w>115.95</w>
+        <h>96.85</h>
+        <annotations>r0-27 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="313" type="label" x="-18827.18835812749" y="-3143.8722180043105" r="-44.97096986005296" s="29.97353370351874" class="strong">
+      <textfield>
+        <x>-53.85</x>
+        <y>-15.7</y>
+        <text><![CDATA[Keywords]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="315" type="label" x="-26612.10533947543" y="4607.891331404134" r="-44.970967824935016" s="29.973541183104278" class="strong">
+      <textfield>
+        <x>-59.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[Constructs]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="318" type="image" x="-23318.389115465012" y="3877.2879238486094" r="-44.876226286100625" s="4.498762989141852">
+      <source w="316" h="277">
+        _math_symbol.jpg
+        <url>_math_symbol.jpg</url>
+      </source>
+      <sourceUrl>math_symbol.jpg</sourceUrl>
+    </object>
+    <object id="319" type="label" x="-27211.917071685417" y="-2940.3172756661247" r="-44.8983971195237" s="4.477861477719822" class="body">
+      <textfield>
+        <x>-157.85</x>
+        <y>-48.4</y>
+        <text><![CDATA[int i=10;This assigns the value on the right to variable on the left]]></text>
+        <w>315.75</w>
+        <h>96.85</h>
+        <annotations>r0-10 { bullet: true; }
+r0-10 { align: left; }
+r0-10 { blockIndent: 36; }
+r10-69 { bullet: true; }
+r10-69 { align: left; }
+r10-69 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="320" type="label" x="-22279.343922350537" y="-5838.172808155263" r="-44.89839592884862" s="4.477884315719283" class="body">
+      <textfield>
+        <x>-269.25</x>
+        <y>-110.3</y>
+        <text><![CDATA[~ inverts a bit pattern<< shifts a bit pattern to the left>> shifts a bit pattern to the right>>>  shifts a zero into the leftmost position& operator performs a bitwise AND operation^ operator performs a bitwise exclusive OR operation| operator performs a bitwise inclusive OR operation]]></text>
+        <annotations>r0-24 { bullet: true; }
+r0-24 { align: left; }
+r0-24 { blockIndent: 36; }
+r24-60 { bullet: true; }
+r24-60 { align: left; }
+r24-60 { blockIndent: 36; }
+r60-97 { bullet: true; }
+r60-97 { align: left; }
+r60-97 { blockIndent: 36; }
+r97-143 { bullet: true; }
+r97-143 { align: left; }
+r97-143 { blockIndent: 36; }
+r143-187 { bullet: true; }
+r143-187 { align: left; }
+r143-187 { blockIndent: 36; }
+r187-240 { bullet: true; }
+r187-240 { align: left; }
+r187-240 { blockIndent: 36; }
+r240-292 { bullet: true; }
+r240-292 { align: left; }
+r240-292 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="321" type="label" x="-26271.77763669868" y="-2011.8231321850167" r="-44.89837785263134" s="3.943063102935724" class="body">
+      <textfield>
+        <x>-176.55</x>
+        <y>-94.85</y>
+        <text><![CDATA[+ additive operator (also used for String concatenation) - subtraction operator * multiplication operator / division operator % remainder operator]]></text>
+        <w>353.15</w>
+        <h>189.7</h>
+        <annotations>r0-57 { bullet: true; }
+r0-57 { align: left; }
+r0-57 { blockIndent: 36; }
+r57-82 { bullet: true; }
+r57-82 { align: left; }
+r57-82 { blockIndent: 36; }
+r82-109 { bullet: true; }
+r82-109 { align: left; }
+r82-109 { blockIndent: 36; }
+r109-130 { bullet: true; }
+r109-130 { align: left; }
+r109-130 { blockIndent: 36; }
+r130-150 { bullet: true; }
+r130-150 { align: left; }
+r130-150 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="322" type="label" x="-23299.217955299286" y="-6599.156959196561" r="-44.89837785263134" s="3.943063102935724" class="body">
+      <textfield>
+        <x>-253.6</x>
+        <y>-94.85</y>
+        <text><![CDATA[+ Unary plus operator; indicates positive value - Unary minus operator; negates an expression ++ Increment operator; increments a value by 1 -- Decrement operator; decrements a value by 1 ! Logical complement operator; inverts the value of a boolean]]></text>
+        <w>507.2</w>
+        <h>189.7</h>
+        <annotations>r0-49 { bullet: true; }
+r0-49 { align: left; }
+r0-49 { blockIndent: 36; }
+r49-95 { bullet: true; }
+r49-95 { align: left; }
+r49-95 { blockIndent: 36; }
+r95-143 { bullet: true; }
+r95-143 { align: left; }
+r95-143 { blockIndent: 36; }
+r143-191 { bullet: true; }
+r143-191 { align: left; }
+r143-191 { blockIndent: 36; }
+r191-253 { bullet: true; }
+r191-253 { align: left; }
+r191-253 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="323" type="label" x="-25185.834398881267" y="-4665.127543055949" r="-44.89839592884862" s="4.477884315719283" class="body">
+      <textfield>
+        <x>-148</x>
+        <y>-94.85</y>
+        <text><![CDATA[== equal to!= not equal to > greater than >= greater than or equal to < less than <= less than or equal to]]></text>
+        <annotations>r0-12 { bullet: true; }
+r0-12 { align: left; }
+r0-12 { blockIndent: 36; }
+r12-29 { bullet: true; }
+r12-29 { align: left; }
+r12-29 { blockIndent: 36; }
+r29-45 { bullet: true; }
+r29-45 { align: left; }
+r29-45 { blockIndent: 36; }
+r45-74 { bullet: true; }
+r45-74 { align: left; }
+r45-74 { blockIndent: 36; }
+r74-87 { bullet: true; }
+r74-87 { align: left; }
+r74-87 { blockIndent: 36; }
+r87-111 { bullet: true; }
+r87-111 { align: left; }
+r87-111 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="324" type="label" x="-24637.91155059091" y="-3976.867049172252" r="-44.89839592884862" s="4.477884315719283" class="body">
+      <textfield>
+        <x>-126.25</x>
+        <y>-32.95</y>
+        <text><![CDATA[&& Conditional-AND || Conditional-OR]]></text>
+        <annotations>r0-20 { bullet: true; }
+r0-20 { align: left; }
+r0-20 { blockIndent: 36; }
+r20-37 { bullet: true; }
+r20-37 { align: left; }
+r20-37 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="325" type="label" x="-24673.322743128436" y="6529.879357688585" r="-44.97097261264781" s="9.101101077056134" class="body">
+      <textfield>
+        <x>-147.55</x>
+        <y>-203.15</y>
+        <text><![CDATA[Conditional Branchingifif-elseswitchLooping Constructs in Javawhiledo-whileforBranching Statementsbreakcontinue]]></text>
+        <annotations>r0-22 { align: left; }
+r22-25 { bullet: true; }
+r22-25 { align: left; }
+r22-25 { blockIndent: 36; }
+r25-33 { bullet: true; }
+r25-33 { align: left; }
+r25-33 { blockIndent: 36; }
+r33-40 { bullet: true; }
+r33-40 { align: left; }
+r33-40 { blockIndent: 36; }
+r41-68 { align: left; }
+r68-74 { bullet: true; }
+r68-74 { align: left; }
+r68-74 { blockIndent: 36; }
+r74-83 { bullet: true; }
+r74-83 { align: left; }
+r74-83 { blockIndent: 36; }
+r83-87 { bullet: true; }
+r83-87 { align: left; }
+r83-87 { blockIndent: 36; }
+r88-109 { align: left; }
+r109-115 { bullet: true; }
+r109-115 { align: left; }
+r109-115 { blockIndent: 36; }
+r115-123 { bullet: true; }
+r115-123 { align: left; }
+r115-123 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="326" type="label" x="-17313.69656074627" y="-2786.1557976392287" r="-44.970971199509016" s="9.626811240410866" class="body">
+      <textfield>
+        <x>-214.35</x>
+        <y>-48.4</y>
+        <text><![CDATA[50 keywords in JavaNo need to memorize them. You will get acquainted with them as you practice.]]></text>
+        <w>428.7</w>
+        <h>96.85</h>
+        <annotations>r0-20 { bullet: true; }
+r0-20 { align: left; }
+r0-20 { blockIndent: 36; }
+r20-96 { bullet: true; }
+r20-96 { align: left; }
+r20-96 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="327" type="image" x="-14649.341005895505" y="-2013.8828436077808" r="-44.880485885781454" s="4.9746271769136925">
+      <source w="1288" h="519">
+        _keywords.jpg
+        <url>_keywords.jpg</url>
+      </source>
+      <sourceUrl>keywords.jpg</sourceUrl>
+    </object>
+    <object id="329" type="label" x="-13373.785487678617" y="4442.757929067511" r="-44.97097261264781" s="9.101101077056134" class="strong">
+      <textfield>
+        <x>-171.05</x>
+        <y>-15.7</y>
+        <text><![CDATA[Retirement years left calculator]]></text>
+        <annotations>r0-32 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="331" type="label" x="-13062.729453006155" y="5631.01337082724" r="-44.970975207829326" s="3.0521627848957236" class="body">
+      <textfield>
+        <x>-282.4</x>
+        <y>-265.05</y>
+        <text><![CDATA[Our company requires a software which finds out  - The number of years left for a person to retire.The program would be supplied with an array of birth years of the employees. The retirement age is 58 yearsThe result will display the number of years left for active employment.Include checks for year values. (The year shouldn’t be a negative integer and it shouldn’t be a year in the future, etc..)Understand the following - Statements and Assignments of values to variablesConditional StatementsComparison OperatorsLooping Constructs]]></text>
+        <w>564.85</w>
+        <h>530.15</h>
+        <annotations>r0-100 { align: left; }
+r100-178 { bullet: true; }
+r100-178 { align: left; }
+r100-178 { blockIndent: 36; }
+r178-209 { bullet: true; }
+r178-209 { align: left; }
+r178-209 { blockIndent: 36; }
+r209-281 { bullet: true; }
+r209-281 { align: left; }
+r209-281 { blockIndent: 36; }
+r282-405 { bullet: true; }
+r282-405 { align: left; }
+r282-405 { blockIndent: 36; }
+r406-434 { align: left; }
+r434-484 { bullet: true; }
+r434-484 { align: left; }
+r434-484 { blockIndent: 36; }
+r484-507 { bullet: true; }
+r484-507 { align: left; }
+r484-507 { blockIndent: 36; }
+r507-528 { bullet: true; }
+r507-528 { align: left; }
+r507-528 { blockIndent: 36; }
+r528-546 { bullet: true; }
+r528-546 { align: left; }
+r528-546 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="332" type="image" x="-15853.796870191976" y="5865.662033682155" r="-44.87479697109829" s="1.2321307534272434">
+      <source w="863" h="574">
+        _department.jpg
+        <url>_department.jpg</url>
+      </source>
+      <sourceUrl>department.jpg</sourceUrl>
+    </object>
+    <object id="333" type="label" x="-17794.995666477207" y="6394.017623456248" r="-44.898425953436664" s="9.101100855222038" class="strong">
+      <textfield>
+        <x>-80.8</x>
+        <y>-15.7</y>
+        <text><![CDATA[Staff employee]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="334" type="label" x="-16880.444184934815" y="7067.860137380595" r="-44.89852883490883" s="3.0471578143289815" class="body">
+      <textfield>
+        <x>-294.5</x>
+        <y>-280.55</y>
+        <text><![CDATA[The company needs a program to add employees to a department. Write a program that takes two inputs from the user – Employee name and department number as String values.It then checks to validate if the department number entered is correctIf yes, the employee is added to that department and a message is shown saying that the employee was added to the department <department_name>. If, no the user is prompted an error message and asked to enter the values again.There are following departments in the company : 1 – Networking, 2 – Accounts, 3 – Finance, 4 – Marketing, 5 – TechnologyUse the appropriate construct]]></text>
+        <w>589</w>
+        <h>561.1</h>
+        <annotations>r0-170 { align: left; }
+r171-242 { bullet: true; }
+r171-242 { align: left; }
+r171-242 { blockIndent: 36; }
+r242-387 { bullet: true; }
+r242-387 { align: left; }
+r242-387 { blockIndent: 72; }
+r387-469 { bullet: true; }
+r387-469 { align: left; }
+r387-469 { blockIndent: 72; }
+r470-592 { bullet: true; }
+r470-592 { align: left; }
+r470-592 { blockIndent: 36; }
+r593-622 { bullet: true; }
+r593-622 { align: left; }
+r593-622 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="335" type="image" x="-11955.911832115724" y="4471.2770103057865" r="-44.88038195390672" s="1.4534252402785195">
+      <source w="633" h="711">
+        _retirement.jpg
+        <url>_retirement.jpg</url>
+      </source>
+      <sourceUrl>retirement.jpg</sourceUrl>
+    </object>
+    <object id="336" type="label" x="-27543.649440255627" y="-3103.985114105779" r="-44.898523155246224" s="6.512787291841956" class="head">
+      <textfield>
+        <x>-102.4</x>
+        <y>-17.45</y>
+        <text><![CDATA[Simple operator – “=“]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="337" type="label" x="-27535.648253574887" y="-4207.713167862064" r="-44.970967824935016" s="29.973541183104278" class="strong">
+      <textfield>
+        <x>-54.55</x>
+        <y>-15.7</y>
+        <text><![CDATA[Operators]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="341" type="image" x="-22850.359304476882" y="-2480.6451398742106" r="-44.88047222013751" s="3.109810828895427">
+      <source w="496" h="547">
+        ___operator_precedence.jpg
+        <url>___operator_precedence.jpg</url>
+      </source>
+      <sourceUrl>operator_precedence.jpg</sourceUrl>
+    </object>
+    <object id="342" type="label" x="-23627.425048549765" y="-3257.790103617197" r="-44.89845572218892" s="10.905412100631025" class="strong">
+      <textfield>
+        <x>-113.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Operator Precedence]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="343" type="label" x="-25653.824600034342" y="-4987.036672532974" r="-44.89839548507643" s="6.523431885285557" class="head">
+      <textfield>
+        <x>-93.55</x>
+        <y>-17.45</y>
+        <text><![CDATA[Equality, Relational]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="344" type="label" x="-26948.630498087066" y="-2055.1166818981196" r="-44.898523155246224" s="6.512787291841956" class="head">
+      <textfield>
+        <x>-53.4</x>
+        <y>-17.45</y>
+        <text><![CDATA[Arithmetic]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="345" type="label" x="-24768.584396431284" y="-4229.8154558217275" r="-44.898523155246224" s="6.512787291841956" class="head">
+      <textfield>
+        <x>-107.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[Conditional Operators]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="346" type="label" x="-24054.577509763036" y="-6581.887071113382" r="-44.898523155246224" s="6.512787291841956" class="head">
+      <textfield>
+        <x>-81.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[Unary Operators]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="347" type="label" x="-22940.8281677383" y="-6052.501625627908" r="-44.89846094720196" s="6.502165440946204" class="head">
+      <textfield>
+        <x>-145.25</x>
+        <y>-17.45</y>
+        <text><![CDATA[Bitwise and Bit Shift operators]]></text>
+        <annotations>r0-31 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="350" type="label" x="-22245.51712321514" y="3571.381167733059" r="-44.898459952287496" s="7.7895600758304715" class="strong">
+      <textfield>
+        <x>-33.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Demo]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="351" type="button" x="-24222.76086939875" y="-3857.4830063220297" r="-44.97097028317365" s="10.278115422146154">
+      <type>invisible</type>
+      <size>
+        <w>795.2662721893491</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="354" type="button" x="-23517.983074297885" y="4836.4004698258095" r="-44.97097028317365" s="10.278115422146154">
+      <type>invisible</type>
+      <size>
+        <w>795.2662721893491</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="355" type="button" x="-15645.686796822676" y="-3013.47664100931" r="-44.97097028317365" s="10.278115422146154">
+      <type>invisible</type>
+      <size>
+        <w>795.2662721893491</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="356" type="button" x="-14747.81105583766" y="5664.12719293168" r="-44.97097028317365" s="10.278115422146154">
+      <type>invisible</type>
+      <size>
+        <w>795.2662721893491</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="357" type="button" x="-22952.82994775941" y="-2613.694575817773" r="-44.970970105017706" s="3.745668953378303">
+      <type>invisible</type>
+      <size>
+        <w>783.5665680473372</w>
+        <h>601.125</h>
+      </size>
+    </object>
+    <object id="358" type="button" x="-26719.646041644755" y="-2524.1763485976326" r="-44.97096810426062" s="1.9110556743485274">
+      <type>invisible</type>
+      <size>
+        <w>1099.7895802514795</w>
+        <h>1248.896875</h>
+      </size>
+    </object>
+    <object id="362" type="button" x="-24969.723138831225" y="-4435.271670242465" r="-44.97096810426062" s="1.9110556743485274">
+      <type>invisible</type>
+      <size>
+        <w>1081.5895802514794</w>
+        <h>1125.121875</h>
+      </size>
+    </object>
+    <object id="363" type="button" x="-22811.898154640265" y="-6252.768951656682" r="-44.97096810426062" s="1.9110556743485274">
+      <type>invisible</type>
+      <size>
+        <w>1379.3697901257397</w>
+        <h>1373.2609375000002</h>
+      </size>
+    </object>
+    <object id="364" type="button" x="-21288.66233783597" y="3673.1784438196787" r="-44.898464514589705" s="2.2275673089241748" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>795.1807228915663</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="349" type="video" x="-21290.920098434" y="3674.208299531061" r="-44.97644375704327" s="4.645917788571957" onFocus="start" onLeave="pause">
+      <source>
+        _prime_numbers_for_operators.flv
+        <url>_prime_numbers_for_operators.flv</url>
+      </source>
+    </object>
+    <object id="365" type="button" x="-16567.447268344746" y="6577.054671236897" r="-44.89845410025539" s="4.07488280670038">
+      <type>invisible</type>
+      <size>
+        <w>794.0520446096655</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="366" type="button" x="-12651.420925814149" y="5164.964051591766" r="-44.97097445058817" s="4.081571343831924">
+      <type>invisible</type>
+      <size>
+        <w>794.0520446096655</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="367" type="label" x="-11914.202675804747" y="5905.192649065208" r="-44.970973083523454" s="4.643418922297241" class="strong">
+      <textfield>
+        <x>-172.55</x>
+        <y>-15.7</y>
+        <text><![CDATA[To be done post learning Arrays]]></text>
+        <annotations>r0-31 { color: #175d66; }
+r0-31 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="412" type="button" x="-208.34773237961818" y="17140.760020904178" r="-44.97097109783134" s="37.815416102980386" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="456" type="image" x="-9420.44668052794" y="1395.6525380980697" r="-80.99293050592003" s="2.506828513917881">
+      <source w="1050" h="750">
+        __questionmark.jpg
+        <url>__questionmark.jpg</url>
+      </source>
+      <sourceUrl>questionmark.jpg</sourceUrl>
+    </object>
+    <object id="457" type="label" x="-8638.508926743521" y="752.2303774945491" r="-67.45900783550681" s="10.923302851748918" class="strong">
+      <textfield>
+        <x>-26.15</x>
+        <y>-15.7</y>
+        <text><![CDATA[Quiz]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="458" type="label" x="-7484.515992304777" y="1044.7093995270777" r="-67.4590058546665" s="3.2855420609350245" class="body">
+      <textfield>
+        <x>-508.45</x>
+        <y>-172.2</y>
+        <text><![CDATA[1. The most basic control flow statement supported by the Java  programming language is the ___ statement.2. The ___ statement allows for any number of possible execution paths.3. The ___ statement is similar to the while statement, but evaluates its expression at the ___ of the loop.4. How do you write an infinite loop using the for statement?5. How do you write an infinite loop using the while statement?6. Assume x=5 and y=10. What is the result of  - (!(y==x))  - True/false ?]]></text>
+        <annotations>r0-107 { align: left; }
+r108-180 { align: left; }
+r181-290 { align: left; }
+r291-353 { align: left; }
+r354-418 { align: left; }
+r419-493 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="459" type="button" x="-8171.429751796667" y="944.2984676673188" r="-67.4590076925353" s="4.616247159290487">
+      <type>invisible</type>
+      <size>
+        <w>883.9821790540541</w>
+        <h>579.8968749999999</h>
+      </size>
+    </object>
+    <object id="464" type="button" x="-5931.850068055985" y="13229.684907755222" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="465" type="button" x="-5338.970056980295" y="13058.174321975042" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="466" type="button" x="-4748.823124523275" y="12837.468321058837" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="467" type="button" x="-4107.183406497146" y="12628.48683131837" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="468" type="button" x="-3486.8933895646705" y="12469.928661600574" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="469" type="button" x="-2848.3432386726886" y="12283.643607345564" r="-44.88408799838949" s="2.6929460273289823" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="470" type="label" x="-7020.486774657015" y="11719.559946353522" r="-44.97097302640237" s="17.802813079346002" class="strong">
+      <textfield>
+        <x>-109</x>
+        <y>-15.7</y>
+        <text><![CDATA[Procedural vs. OOPS]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="472" type="label" x="-3115.471966271195" y="17277.730830518" r="-44.970973412746794" s="17.210423480600898" class="strong">
+      <textfield>
+        <x>-44.8</x>
+        <y>-15.7</y>
+        <text><![CDATA[Package]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="474" type="image" x="5812.149146525337" y="10855.550614338958" r="-44.87489749001017" s="3.8833517251797383">
+      <source w="687" h="601">
+        _codeSnippet7.jpg
+        <url>_codeSnippet7.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet7.jpg</sourceUrl>
+    </object>
+    <object id="475" type="label" x="2095.0433956317042" y="12121.441332802877" r="-44.8805087150084" s="16.296399868347542" class="strong">
+      <textfield>
+        <x>-65.95</x>
+        <y>-15.7</y>
+        <text><![CDATA[Constructor]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="477" type="image" x="-5560.547474267669" y="21765.406312535797" r="-44.87624499257955" s="2.7226181093331414">
+      <source w="588" h="474">
+        _object_world.jpg
+        <url>_object_world.jpg</url>
+      </source>
+      <sourceUrl>object_world.jpg</sourceUrl>
+    </object>
+    <object id="478" type="image" x="-4907.302074570965" y="23761.14785168923" r="-44.87598237877303" s="1.0859513499622406">
+      <source w="718" h="957">
+        _things2.gif
+        <url>_things2.gif</url>
+      </source>
+      <sourceUrl>things2.gif</sourceUrl>
+    </object>
+    <object id="479" type="label" x="-7804.801118544625" y="21947.37389477001" r="-44.970973412746794" s="17.210423480600898" class="strong">
+      <textfield>
+        <x>-79.15</x>
+        <y>-15.7</y>
+        <text><![CDATA[Object & Class]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="484" type="label" x="-6501.399886285362" y="11852.015234771288" r="-44.970974012054185" s="9.249172299952477" class="strong">
+      <textfield>
+        <x>-237.05</x>
+        <y>-15.7</y>
+        <text><![CDATA[Understanding of Object Oriented Approach]]></text>
+        <annotations>r0-41 { color: #194a99; }
+r0-41 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="485" type="label" x="-6319.907622071786" y="21004.857869680083" r="-44.97097150123237" s="8.780734267930086" class="strong">
+      <textfield>
+        <x>-122.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[Object Oriented World]]></text>
+        <annotations>r0-21 { color: #194a99; }
+r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="486" type="label" x="-6220.368106583197" y="21329.65851711599" r="-44.89845075187866" s="7.531596988947785" class="body">
+      <textfield>
+        <x>-50.55</x>
+        <y>-17.45</y>
+        <text><![CDATA[Object]]></text>
+        <annotations>r0-6 { bullet: true; }
+r0-6 { align: left; }
+r0-6 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="487" type="label" x="-6927.324442611985" y="22638.40707710743" r="-45.11290083767137" s="7.544013417832266" class="body">
+      <textfield>
+        <x>-43.95</x>
+        <y>-17.45</y>
+        <text><![CDATA[Class]]></text>
+        <annotations>r0-5 { bullet: true; }
+r0-5 { align: left; }
+r0-5 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="488" type="label" x="-6352.585735990643" y="22897.574227860252" r="-45.11290083767137" s="7.544013417832266" class="body">
+      <textfield>
+        <x>-73.6</x>
+        <y>-17.45</y>
+        <text><![CDATA[Inheritance]]></text>
+        <annotations>r0-11 { bullet: true; }
+r0-11 { align: left; }
+r0-11 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="489" type="label" x="-4776.0746910398475" y="20495.396171226348" r="-45.114138209999105" s="7.544020685470103" class="body">
+      <textfield>
+        <x>-99.65</x>
+        <y>-17.45</y>
+        <text><![CDATA[Data Abstraction]]></text>
+        <annotations>r0-16 { bullet: true; }
+r0-16 { align: left; }
+r0-16 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="490" type="image" x="-2464.365497667362" y="21992.212228050186" r="-44.87496364262357" s="1.652864363061565">
+      <source w="780" h="341">
+        _classes.png
+        <url>_classes.png</url>
+      </source>
+      <sourceUrl>classes.png</sourceUrl>
+    </object>
+    <object id="491" type="label" x="-4433.5288375001255" y="20986.12241769994" r="-45.11286069324549" s="7.531644912532065" class="body">
+      <textfield>
+        <x>-85.95</x>
+        <y>-17.45</y>
+        <text><![CDATA[Encapsulation]]></text>
+        <annotations>r0-13 { bullet: true; }
+r0-13 { align: left; }
+r0-13 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="492" type="label" x="-5035.87559915352" y="22290.7911646809" r="-44.89845546410322" s="7.53164506750133" class="body">
+      <textfield>
+        <x>-89.25</x>
+        <y>-17.45</y>
+        <text><![CDATA[Polymorphism]]></text>
+        <annotations>r0-12 { bullet: true; }
+r0-12 { align: left; }
+r0-12 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="493" type="label" x="-6437.54883217967" y="24226.40497422364" r="-44.97096995327767" s="6.896634077515575" class="strong">
+      <textfield>
+        <x>-36.1</x>
+        <y>-15.7</y>
+        <text><![CDATA[Object]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="495" type="label" x="-4223.557101883328" y="22001.718588462943" r="-44.97096995327767" s="6.896634077515575" class="strong">
+      <textfield>
+        <x>-28.55</x>
+        <y>-15.7</y>
+        <text><![CDATA[Class]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="497" type="image" x="1104.639079962508" y="15831.060824871462" r="-44.876026554166415" s="3.361723266425955">
+      <source w="675" h="709">
+        _packages.jpg
+        <url>_packages.jpg</url>
+      </source>
+      <sourceUrl>packages.jpg</sourceUrl>
+    </object>
+    <object id="498" type="label" x="-1777.4913480105258" y="17077.38428481912" r="-44.97097053867923" s="7.0385887763320465" class="body">
+      <textfield>
+        <x>-223.5</x>
+        <y>-48.4</y>
+        <text><![CDATA[A package in java can be thought of as a folder structure that can help organize a set of related classes and interfaces together.]]></text>
+        <w>447.05</w>
+        <h>96.85</h>
+        <annotations>r0-130 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="499" type="label" x="-729.7716010194079" y="18281.08756224958" r="-44.97097052496705" s="6.1423533141291315" class="body">
+      <textfield>
+        <x>-238.15</x>
+        <y>-172.2</y>
+        <text><![CDATA[Classes are grouped into packages.Ex.          ArrayList in java.util package          System in java.lang packageFull class name needs to be given to use a class.Ex.          Java.util.ArrayListAlternatively, import the classes at the top.import java.util.ArrayList;]]></text>
+        <annotations>r250-277 { color: #87234b; }
+r0-35 { align: left; }
+r35-39 { bullet: true; }
+r35-39 { align: left; }
+r35-39 { blockIndent: 36; }
+r39-80 { align: left; }
+r80-118 { align: left; }
+r119-169 { align: left; }
+r169-173 { bullet: true; }
+r169-173 { align: left; }
+r169-173 { blockIndent: 36; }
+r173-203 { align: left; }
+r204-250 { align: left; }
+r250-277 { bullet: true; }
+r250-277 { align: left; }
+r250-277 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="500" type="label" x="3703.5987971405057" y="12927.937184320255" r="-44.880440807480625" s="6.122111531907593" class="body">
+      <textfield>
+        <x>-238.25</x>
+        <y>-203.15</y>
+        <text><![CDATA[Object CreationElephant elephant = new Elephant();Constructors are used to set the values in instance variables or process anything required before an object can be used.The constructor name need to be same as class name.Constructor does not return anything.A class can have multiple overloaded constructors.]]></text>
+        <w>476.55</w>
+        <h>406.35</h>
+        <annotations>r16-51 { color: #87234b; }
+ r0-16 { align: left; }
+r16-52 { bullet: true; }
+r16-52 { align: left; }
+r16-52 { blockIndent: 36; }
+r53-174 { align: left; }
+r175-227 { align: left; }
+r228-266 { align: left; }
+r267-317 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="501" type="label" x="-5622.932964476395" y="24529.895530400947" r="-44.97096995272835" s="3.364494561218423" class="body">
+      <textfield>
+        <x>-176.7</x>
+        <y>-203.15</y>
+        <text><![CDATA[Real-world objects.Look around and identify objects:StudentInstructorChairTableComputerDusterObjects share two characteristics:They have state.They have behavior.]]></text>
+        <annotations>r0-20 { align: left; }
+r21-55 { align: left; }
+r55-63 { bullet: true; }
+r55-63 { align: left; }
+r55-63 { blockIndent: 36; }
+r63-74 { bullet: true; }
+r63-74 { align: left; }
+r63-74 { blockIndent: 36; }
+r74-80 { bullet: true; }
+r74-80 { align: left; }
+r74-80 { blockIndent: 36; }
+r80-86 { bullet: true; }
+r80-86 { align: left; }
+r80-86 { blockIndent: 36; }
+r86-95 { bullet: true; }
+r86-95 { align: left; }
+r86-95 { blockIndent: 36; }
+r95-102 { bullet: true; }
+r95-102 { align: left; }
+r95-102 { blockIndent: 36; }
+r103-138 { align: left; }
+r138-155 { bullet: true; }
+r138-155 { align: left; }
+r138-155 { blockIndent: 36; }
+r155-174 { bullet: true; }
+r155-174 { align: left; }
+r155-174 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="502" type="label" x="-3392.027834612354" y="21692.99953405862" r="-44.97096995272835" s="3.364494561218423" class="body">
+      <textfield>
+        <x>-296.55</x>
+        <y>-63.9</y>
+        <text><![CDATA[A class is a blueprint from which individual objects are created.For ex. All the people are built from the same set of blueprint and contain the same components.]]></text>
+        <w>593.1</w>
+        <h>127.8</h>
+        <annotations>r0-66 { align: left; }
+r67-163 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="503" type="image" x="3719.95765901746" y="22231.257582596" r="-44.87501163107726" s="1.5359516483184645">
+      <source w="650" h="438">
+        _address.jpg
+        <url>_address.jpg</url>
+      </source>
+      <sourceUrl>address.jpg</sourceUrl>
+    </object>
+    <object id="504" type="label" x="2387.839296344658" y="22305.68446266089" r="-44.97097160451251" s="7.917714584976034" class="strong">
+      <textfield>
+        <x>-131.4</x>
+        <y>-15.7</y>
+        <text><![CDATA[Writing an address class]]></text>
+        <annotations>r0-24 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="506" type="label" x="2850.7990484459847" y="23011.373283967976" r="-44.97097172702909" s="2.7876609776856696" class="body">
+      <textfield>
+        <x>-272.3</x>
+        <y>-172.2</y>
+        <text><![CDATA[Write an Address class and print the address on output console.Demonstrate “AddressTest” example.Understand the following:Class and ObjectHow to instantiate a classTest classInstance Variables and MethodsCreating and using a constructor]]></text>
+        <w>544.6</w>
+        <h>344.45</h>
+        <annotations>r0-64 { align: left; }
+r65-100 { align: left; }
+r101-127 { align: left; }
+r127-144 { bullet: true; }
+r127-144 { align: left; }
+r127-144 { blockIndent: 36; }
+r144-171 { bullet: true; }
+r144-171 { align: left; }
+r144-171 { blockIndent: 36; }
+r171-182 { bullet: true; }
+r171-182 { align: left; }
+r171-182 { blockIndent: 36; }
+r182-213 { bullet: true; }
+r182-213 { align: left; }
+r182-213 { blockIndent: 36; }
+r213-245 { bullet: true; }
+r213-245 { align: left; }
+r213-245 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="507" type="image" x="7176.549524766463" y="21259.35105989663" r="-44.88042988918531" s="2.8097166994992215">
+      <source w="333" h="359">
+        _employee.jpg
+        <url>_employee.jpg</url>
+      </source>
+      <sourceUrl>employee.jpg</sourceUrl>
+    </object>
+    <object id="508" type="label" x="5763.112170729526" y="21058.291537166795" r="-44.97097160451251" s="7.917714584976034" class="strong">
+      <textfield>
+        <x>-142.5</x>
+        <y>-15.7</y>
+        <text><![CDATA[Writing an employee class]]></text>
+        <annotations>r0-25 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="510" type="label" x="6041.846579998608" y="21907.684840046742" r="-44.97097119670524" s="3.285294000574915" class="body">
+      <textfield>
+        <x>-218.4</x>
+        <y>-110.3</y>
+        <text><![CDATA[Write an Employee class and print its emp id, name, project and address details.Demonstrate “EmployeeTest” example.Understand the following:How a class is called from other class.]]></text>
+        <w>436.8</w>
+        <h>220.65</h>
+        <annotations>r0-81 { align: left; }
+r82-118 { align: left; }
+r119-145 { align: left; }
+r145-184 { bullet: true; }
+r145-184 { align: left; }
+r145-184 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="511" type="label" x="-396.61327838728454" y="32979.18827509553" r="0" s="85.95491350046227" class="strong">
+      <textfield>
+        <x>-30.65</x>
+        <y>-15.7</y>
+        <text><![CDATA[OOPS]]></text>
+        <annotations>r0-4 { color: #322c69; }
+r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="512" type="label" x="-6530.592334719541" y="12848.836343719095" r="-44.89166295143396" s="9.249172689132108" class="head">
+      <textfield>
+        <x>-94.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[Problem Statement:]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="513" type="label" x="-5839.123444196539" y="12557.228738057736" r="-44.89166295143396" s="9.249172689132108" class="head">
+      <textfield>
+        <x>-115.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[Procedural Programmer]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="514" type="label" x="-5546.248323813478" y="12633.794549215492" r="-44.88408395293484" s="9.264435572041851" class="head">
+      <textfield>
+        <x>-66.1</x>
+        <y>-17.45</y>
+        <text><![CDATA[Specs Change]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="515" type="label" x="-4603.45502987818" y="12132.848965298188" r="-44.88408395293484" s="9.264435572041851" class="head">
+      <textfield>
+        <x>-115.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[Procedural Programmer]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="516" type="label" x="-3998.137530595798" y="11955.75339277551" r="-44.88409443246523" s="8.005872099412636" class="head">
+      <textfield>
+        <x>-139.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[Object Oriented Programmer]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="517" type="label" x="-3604.2177209921283" y="12007.602666860097" r="-44.88408541647203" s="9.249237052311743" class="head">
+      <textfield>
+        <x>-78.7</x>
+        <y>-17.45</y>
+        <text><![CDATA[Key takeaways...]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="518" type="image" x="-2812.654777289792" y="12319.134019553196" r="-44.87623156893356" s="0.9694318184351374">
+      <source w="1393" h="849">
+        __codeSnippet6.jpg
+        <url>__codeSnippet6.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet6.jpg</sourceUrl>
+    </object>
+    <object id="519" type="label" x="-3227.8846781520615" y="11969.101907188426" r="-44.884085215973855" s="2.778238701953421" class="body">
+      <textfield>
+        <x>-388.15</x>
+        <y>-32.95</y>
+        <text><![CDATA[Flexibility and Extensibility - No need to touch the code which is already testedBut, Code is duplicated !!!]]></text>
+        <annotations>r0-82 { bullet: true; }
+r0-82 { align: left; }
+r0-82 { blockIndent: 36; }
+r82-109 { bullet: true; }
+r82-109 { align: left; }
+r82-109 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="520" type="label" x="-2612.3478414259653" y="12949.366105084013" r="-44.884085215973855" s="2.778238701953421" class="body">
+      <textfield>
+        <x>-242.3</x>
+        <y>-63.9</y>
+        <text><![CDATA[Object Oriented Programming is better becauseBased on real-life scenariosIt is modularEasy to maintain and modify existing code]]></text>
+        <annotations>r0-46 { align: left; }
+r46-75 { bullet: true; }
+r46-75 { align: left; }
+r46-75 { blockIndent: 36; }
+r75-89 { bullet: true; }
+r75-89 { align: left; }
+r75-89 { blockIndent: 36; }
+r89-130 { bullet: true; }
+r89-130 { align: left; }
+r89-130 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="521" type="label" x="-3294.94412889706" y="22392.31117192215" r="-44.898482934664045" s="3.3589737229627246" class="body">
+      <textfield>
+        <x>-170.5</x>
+        <y>-79.35</y>
+        <text><![CDATA[Things an object knows about itself Instance Variables (State)Things an object can doMethods (Behavior)]]></text>
+        <annotations>r0-37 { align: left; }
+r37-64 { align: left; }
+r65-89 { align: left; }
+r89-107 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="522" type="button" x="-6831.032933597755" y="13588.629233006952" r="-44.88408818798392" s="0.5007113936847761" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="523" type="label" x="-6862.641581970175" y="13563.991915603887" r="-44.891662815958064" s="0.44840045853652194" class="body">
+      <textfield>
+        <x>-412.25</x>
+        <y>-48.4</y>
+        <text><![CDATA[Following shapes are given – a square, a circle and a triangle. When the user clicks on a shape, the shape will rotate 360 degree clockwise and play a .mp3 sound file specific to that particular shape.]]></text>
+        <w>824.5</w>
+        <h>96.85</h>
+        <annotations>r0-201 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="524" type="image" x="-6796.651596771612" y="13623.48588785373" r="-44.876394226245786" s="0.2218760061429844">
+      <source w="734" h="197">
+        ___shapes1.jpg
+        <url>___shapes1.jpg</url>
+      </source>
+      <sourceUrl>shapes1.jpg</sourceUrl>
+    </object>
+    <object id="525" type="label" x="-6942.732668447664" y="13517.806847931904" r="-44.8916640229941" s="1.7197395871707015" class="head">
+      <textfield>
+        <x>-94.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[Problem Statement:]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="526" type="button" x="-6239.2619979035535" y="13380.836038318077" r="-44.88408818798392" s="0.5007113936847761" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="527" type="button" x="-5596.077496310353" y="13175.34021406229" r="-44.88408818798392" s="0.5007113936847761" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="528" type="button" x="-5019.358297936353" y="12968.656094754902" r="-44.88408818798392" s="0.5007113936847761" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="529" type="button" x="-4383.858104343464" y="12780.152889736915" r="-44.88408818798392" s="0.5007113936847761" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>864.7</w>
+        <h>625.75</h>
+      </size>
+    </object>
+    <object id="530" type="label" x="-6326.364025185452" y="13293.49635202586" r="-44.8916640229941" s="1.7197395871707015" class="head">
+      <textfield>
+        <x>-115.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[Procedural Programmer]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="531" type="label" x="-5737.444997615078" y="13144.64259189609" r="-44.891685488653565" s="1.71690128325229" class="head">
+      <textfield>
+        <x>-66.1</x>
+        <y>-17.45</y>
+        <text><![CDATA[Specs Change]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="532" type="label" x="-5103.568807259369" y="12884.128706751459" r="-44.884081961194624" s="1.7169013284339028" class="head">
+      <textfield>
+        <x>-115.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[Procedural Programmer]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="533" type="label" x="-4470.32637426451" y="12693.446960805551" r="-44.88408236218626" s="1.4885672158066439" class="head">
+      <textfield>
+        <x>-139.85</x>
+        <y>-17.45</y>
+        <text><![CDATA[Object Oriented Programmer]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="534" type="label" x="-6283.268524647614" y="13384.63858248318" r="-44.89165853349845" s="0.44840039182258634" class="body">
+      <textfield>
+        <x>-341.7</x>
+        <y>-141.25</y>
+        <text><![CDATA[Questions HimselfWhat this program needs to do?Which procedures do we need?Decidesrotate and playSound procedures which will take shape as parameter.After all, a program is a pile of procedures.Starts Writing]]></text>
+        <annotations>r0-18 { align: left; }
+r18-49 { bullet: true; }
+r18-49 { align: left; }
+r18-49 { blockIndent: 36; }
+r49-78 { bullet: true; }
+r49-78 { align: left; }
+r49-78 { blockIndent: 36; }
+r79-87 { align: left; }
+r87-155 { bullet: true; }
+r87-155 { align: left; }
+r87-155 { blockIndent: 36; }
+r155-201 { bullet: true; }
+r155-201 { align: left; }
+r155-201 { blockIndent: 36; }
+r202-216 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="535" type="image" x="-6253.3234893474255" y="13509.409562900631" r="-44.87520258719804" s="0.2864694768910691">
+      <source w="609" h="263">
+        _codeSnippet1.jpg
+        <url>_codeSnippet1.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet1.jpg</sourceUrl>
+    </object>
+    <object id="536" type="image" x="-6112.391696228285" y="13369.032307472238" r="-44.874963819774486" s="0.28592243946135126">
+      <source w="613" h="263">
+        _codeSnippet2.jpg
+        <url>_codeSnippet2.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet2.jpg</sourceUrl>
+    </object>
+    <object id="537" type="image" x="-5547.832717215605" y="13223.822652167353" r="-44.87435156213832" s="0.33519878772041417">
+      <source w="292" h="222">
+        _shape2.jpg
+        <url>_shape2.jpg</url>
+      </source>
+      <sourceUrl>shape2.jpg</sourceUrl>
+    </object>
+    <object id="538" type="label" x="-5631.369859342718" y="13150.544457319009" r="-44.89165853349845" s="0.44840039182258634" class="body">
+      <textfield>
+        <x>-405.4</x>
+        <y>-63.9</y>
+        <text><![CDATA[Correction in Problem Statement: Rhombus was missed in the original Problem Statement. Rhombus shape needs to be handled a bit differently – when the user clicks on Rhombus, the shape will rotate 360 degree anti-clockwise and play a .avi file.]]></text>
+        <w>810.8</w>
+        <h>127.8</h>
+        <annotations>r0-34 { align: left; }
+r34-244 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="539" type="image" x="-4320.442758423356" y="12843.805894667343" r="-44.874663071051955" s="0.23444084659613373">
+      <source w="1393" h="405">
+        ___codeSnippet5.jpg
+        <url>___codeSnippet5.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet5.jpg</sourceUrl>
+    </object>
+    <object id="540" type="label" x="-4458.483033583616" y="12815.484862604335" r="-44.89389118726379" s="0.4476489141301568" class="body">
+      <textfield>
+        <x>-196.3</x>
+        <y>-141.25</y>
+        <text><![CDATA[Questions Himself What are the things in this program? Who are the key players?DecidesThe ShapesThe User, Sound and Clicking event.Starts Writing]]></text>
+        <annotations>r0-19 { align: left; }
+r19-57 { bullet: true; }
+r19-57 { align: left; }
+r19-57 { blockIndent: 36; }
+r57-82 { bullet: true; }
+r57-82 { align: left; }
+r57-82 { blockIndent: 36; }
+r83-91 { align: left; }
+r91-102 { bullet: true; }
+r91-102 { align: left; }
+r91-102 { blockIndent: 36; }
+r102-138 { bullet: true; }
+r102-138 { align: left; }
+r102-138 { blockIndent: 36; }
+r139-153 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="541" type="image" x="-4891.735409395073" y="12962.75422933198" r="-44.87595650574508" s="0.23688542013139355">
+      <source w="639" h="489">
+        _codeSnippet4.jpg
+        <url>_codeSnippet4.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet4.jpg</sourceUrl>
+    </object>
+    <object id="542" type="label" x="-5091.804686248581" y="12990.639553209405" r="-44.891658285909344" s="0.44764893008404555" class="body">
+      <textfield>
+        <x>-237</x>
+        <y>-110.3</y>
+        <text><![CDATA[Questions HimselfWhich procedures needs to be changed?DecidesTo change both rotate and playSound method.Starts Writing]]></text>
+        <annotations>r0-18 { align: left; }
+r18-56 { bullet: true; }
+r18-56 { align: left; }
+r18-56 { blockIndent: 36; }
+r57-65 { align: left; }
+r65-109 { bullet: true; }
+r65-109 { align: left; }
+r65-109 { blockIndent: 36; }
+r110-124 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="543" type="image" x="-5023.121232266402" y="13093.506294842458" r="-44.87544415379275" s="0.2359110096868757">
+      <source w="643" h="489">
+        _codeSnippet3.jpg
+        <url>_codeSnippet3.jpg</url>
+      </source>
+      <sourceUrl>codeSnippet3.jpg</sourceUrl>
+    </object>
+    <object id="546" type="label" x="2311.5903638673262" y="16603.57143791323" r="-44.970970018541585" s="6.132229623941357" class="strong">
+      <textfield>
+        <x>-33.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Demo]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="547" type="button" x="-4867.335751002327" y="12410.47429918578" r="-44.97097231800333" s="8.045498361188743">
+      <type>invisible</type>
+      <size>
+        <w>794.4827586206897</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="550" type="button" x="-186.08700507974262" y="17116.99411987228" r="-44.97097231800333" s="8.045498361188743">
+      <type>invisible</type>
+      <size>
+        <w>794.4827586206897</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="551" type="button" x="4587.492266351756" y="21902.416731984675" r="-44.97097231800333" s="8.045498361188743">
+      <type>invisible</type>
+      <size>
+        <w>794.4827586206897</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="552" type="button" x="-5205.99984070684" y="22121.102631313166" r="-44.97097231800333" s="8.045498361188743">
+      <type>invisible</type>
+      <size>
+        <w>794.4827586206897</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="553" type="button" x="4765.617694585813" y="12176.974321547406" r="-44.97097231800333" s="8.045498361188743">
+      <type>invisible</type>
+      <size>
+        <w>794.4827586206897</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="554" type="button" x="-5385.986931188396" y="24184.89386708793" r="-44.970972848348815" s="2.854464218035669">
+      <type>invisible</type>
+      <size>
+        <w>794.306049822064</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="555" type="button" x="-3124.7802775086875" y="21932.480596790025" r="-44.970972848348815" s="2.854464218035669">
+      <type>invisible</type>
+      <size>
+        <w>794.306049822064</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="556" type="button" x="2914.80854189189" y="16715.94453995904" r="-44.89829135567175" s="1.4339520371250036" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>793.1330472103004</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="545" type="video" x="2913.739076345455" y="16710.438772886653" r="-44.749941820224514" s="2.999088666832335" onFocus="start" onLeave="pause">
+      <source>
+        _packages_24bit.flv
+        <url>_packages_24bit.flv</url>
+      </source>
+    </object>
+    <object id="557" type="image" x="345.6750305089216" y="22997.074133513786" r="-81.98827057709455" s="6.184316810156183">
+      <source w="420" h="300">
+        ________exercise.png
+        <url>________exercise.png</url>
+      </source>
+      <sourceUrl>exercise.png</sourceUrl>
+    </object>
+    <object id="328" type="image" x="-19835.932027426297" y="6988.046319748479" r="-81.99351516396614" s="5.901341050010225">
+      <source w="420" h="300">
+        ____exercise.png
+        <url>____exercise.png</url>
+      </source>
+      <sourceUrl>exercise.png</sourceUrl>
+    </object>
+    <object id="339" type="label" x="-18050.954420590726" y="5657.591570147909" r="-44.88050863038562" s="29.924143485526994" class="strong">
+      <textfield>
+        <x>-44.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Exercise]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="558" type="button" x="6399.483780693584" y="21551.790472094108" r="-44.970972415597586" s="3.447291474487018">
+      <type>invisible</type>
+      <size>
+        <w>794.3410275502606</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="559" type="button" x="3177.580187634549" y="22704.080183625567" r="-44.970972415597586" s="3.447291474487018">
+      <type>invisible</type>
+      <size>
+        <w>794.3410275502606</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="482" type="label" x="1908.5206823663768" y="21826.326238847556" r="-44.97097120227616" s="17.23863657967578" class="strong">
+      <textfield>
+        <x>-49.25</x>
+        <y>-15.7</y>
+        <text><![CDATA[Exercises]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="562" type="button" x="37035.55226321947" y="25447.615798747593" r="45.128179371145464" s="19.293580748983207" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="561" type="label" x="37440.40438729781" y="25575.79322497962" r="0.007860488186207892" s="66.55403069802459" class="strong">
+      <textfield>
+        <x>-85.05</x>
+        <y>-15.7</y>
+        <text><![CDATA[JAVA 101 : DAY 1]]></text>
+        <annotations>r0-16 { color: #c5c3c3; }
+r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="11" type="label" x="37336.34935061316" y="25516.418082234934" r="0.007860488186207892" s="66.55403069802459" class="strong">
+      <textfield>
+        <x>-85.05</x>
+        <y>-15.7</y>
+        <text><![CDATA[JAVA 101 : DAY 1]]></text>
+        <annotations>r0-16 { color: #5b28e0; }
+r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="564" type="button" x="24188.8944604283" y="-3998.375189606117" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="565" type="button" x="14388.4706322354" y="5519.4324654824895" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="566" type="button" x="15497.466794053755" y="-3032.4893618348265" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="567" type="button" x="23097.999993229238" y="4597.275895609886" r="45.126329449639826" s="10.695916891742433">
+      <type>invisible</type>
+      <size>
+        <w>797.7369165487977</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="568" type="button" x="24622.74098376555" y="2856.265205683321" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="575" type="shape" x="25587.280077145035" y="3879.783343456958" r="75.10736527016883" s="12.064765261490157" class="line3">
+      <geom type="arrow">
+        <sp>-42.159149586392935 9.562499999999998</sp>
+        <ep>42.15914958639293 9.562499999999998</ep>
+        <b>-19.124999999999996</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="577" type="shape" x="25762.474377585157" y="6554.793943937022" r="118.0180866060562" s="12.043290054897025" class="line3">
+      <geom type="arrow">
+        <sp>-44.256980273598856 16.808572414532485</sp>
+        <ep>44.256980273598856 16.808572414532485</ep>
+        <b>-33.61714482906497</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="578" type="shape" x="23955.037994274444" y="7580.6490619787955" r="0.1610141415974567" s="12.063180561052294" class="line3">
+      <geom type="arrow">
+        <sp>36.70559744026946 -14.162499999999987</sp>
+        <ep>-36.70559744026944 -14.162500000000014</ep>
+        <b>-28.325000000000003</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="580" type="shape" x="21097.82215254985" y="6424.63602595234" r="45.11690047362954" s="12.063181076954026" class="line3">
+      <geom type="arrow">
+        <sp>42.80137961226175 -7.949999999999998</sp>
+        <ep>-42.801379612261755 -7.95</ep>
+        <b>-15.9</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="581" type="shape" x="19953.929726049657" y="3602.316448909577" r="96.88247477183747" s="12.053181197128469" class="line3">
+      <geom type="arrow">
+        <sp>41.070622760606845 -14.512499999999992</sp>
+        <ep>-41.07062276060685 -14.512500000000006</ep>
+        <b>-29.025</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="582" type="shape" x="20982.914021060635" y="1663.2961935522674" r="-27.48000354204969" s="12.033318273163731" class="line3">
+      <geom type="arrow">
+        <sp>-46.05594817793774 14.7625</sp>
+        <ep>46.05594817793775 14.7625</ep>
+        <b>-29.525</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="583" type="button" x="25424.166776396123" y="5173.123677612717" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="584" type="button" x="24469.807410625304" y="6521.04636447173" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="585" type="button" x="22619.592405457177" y="6985.867778820555" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="586" type="button" x="20565.34713993023" y="4918.511657891008" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="587" type="button" x="20945.4827269354" y="2978.5803763274766" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="588" type="button" x="22300.33713492871" y="2033.2916627838288" r="45.12817120044308" s="2.08671290322817">
+      <type>invisible</type>
+      <size>
+        <w>792.8571428571429</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="173" type="label" x="24628.127921332783" y="2806.158764341074" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-388.45</x>
+        <y>-172.2</y>
+        <text><![CDATA[Write a program that will calculate the average score of 20 GMI trainees.Variables needed?int  traineeAMarks;int  traineeBMarks;int  traineeCMarks;int  traineeDMarks;---------We need several variables at once. This will make the program difficult to manage.]]></text>
+        <annotations>r0-74 { align: left; }
+r75-93 { align: left; }
+r94-114 { align: left; }
+r114-134 { align: left; }
+r134-154 { align: left; }
+r154-174 { align: left; }
+r174-184 { align: left; }
+r185-267 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="175" type="label" x="24611.80866929088" y="2135.6038667261396" r="45.12817571656005" s="4.2204418736427805" class="strong">
+      <textfield>
+        <x>-46.65</x>
+        <y>-15.7</y>
+        <text><![CDATA[Problem]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="179" type="label" x="25345.73930299087" y="4861.433885579406" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-270.95</x>
+        <y>-79.35</y>
+        <text><![CDATA[A list of variables.Each variable in the list should be of the same type.A way to set the size of the list.A way to populate the list with each trainee’s  score.A way to access the score of each trainee from the list.]]></text>
+        <annotations>r0-21 { bullet: true; }
+r0-21 { align: left; }
+r0-21 { blockIndent: 36; }
+r21-75 { bullet: true; }
+r21-75 { align: left; }
+r21-75 { blockIndent: 36; }
+r75-110 { bullet: true; }
+r75-110 { align: left; }
+r75-110 { blockIndent: 36; }
+r110-165 { bullet: true; }
+r110-165 { align: left; }
+r110-165 { blockIndent: 36; }
+r165-221 { bullet: true; }
+r165-221 { align: left; }
+r165-221 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="202" type="label" x="25603.91620786736" y="4657.601674395849" r="45.12817571656005" s="4.2204418736427805" class="strong">
+      <textfield>
+        <x>-117</x>
+        <y>-15.7</y>
+        <text><![CDATA[Arrays to the rescue...]]></text>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="203" type="label" x="25296.187399339367" y="4533.345621834087" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-73.35</x>
+        <y>-17.45</y>
+        <text><![CDATA[What we need:]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="219" type="image" x="22751.77042502957" y="6837.093238360888" r="45.125126280806406" s="0.8062686305970026">
+      <source w="945" h="495">
+        arrays.png
+        <url>arrays.png</url>
+      </source>
+      <sourceUrl>arrays.png</sourceUrl>
+    </object>
+    <object id="205" type="label" x="22446.022108254234" y="7158.249780971904" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-351.3</x>
+        <y>-79.35</y>
+        <text><![CDATA[In the above figure, ‘myArray’ is an array variable that is used to access the array elements.Each element in the array has a position or index.Values can be retrieved from array using index.Array index starts with zero in Java and the last index is [length-1]]]></text>
+        <w>702.6</w>
+        <h>158.75</h>
+        <annotations>r0-95 { bullet: true; }
+r0-95 { align: left; }
+r0-95 { blockIndent: 36; }
+r95-146 { bullet: true; }
+r95-146 { align: left; }
+r95-146 { blockIndent: 36; }
+r146-194 { bullet: true; }
+r146-194 { align: left; }
+r146-194 { blockIndent: 36; }
+r194-263 { bullet: true; }
+r194-263 { align: left; }
+r194-263 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="206" type="label" x="22655.280866840072" y="6293.13137357585" r="45.128177150614555" s="4.213529215561334" class="strong">
+      <textfield>
+        <x>-63.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[Array Index]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="208" type="label" x="20564.832212074536" y="4791.52252671058" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-394.05</x>
+        <y>-156.75</y>
+        <text><![CDATA[Every element in an array is just a variable, a primitive variable or reference variable.An array of object reference variables, does not contain objects as the elements, but references to the actual objects that sit on the heap.Arrays are always objects whether they are declared to hold primitives or object references.An array of primitives is also an object.]]></text>
+        <w>788.15</w>
+        <h>313.5</h>
+        <annotations>r0-90 { bullet: true; }
+r0-90 { align: left; }
+r0-90 { blockIndent: 36; }
+r91-232 { bullet: true; }
+r91-232 { align: left; }
+r91-232 { blockIndent: 36; }
+r233-326 { bullet: true; }
+r233-326 { align: left; }
+r233-326 { blockIndent: 36; }
+r327-368 { bullet: true; }
+r327-368 { align: left; }
+r327-368 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="209" type="label" x="20766.287833154904" y="4397.404667931644" r="45.12817571656005" s="4.2204418736427805" class="strong">
+      <textfield>
+        <x>-120.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Arrays are Objects too]]></text>
+        <annotations>r0-22 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="212" type="label" x="24441.44676872724" y="6492.566893068508" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-434.45</x>
+        <y>-218.65</y>
+        <text><![CDATA[Declare an integer array variable.int[] scores;Create a new integer array, with a capacity of 20 elements and assign it to the previously declared array variable.           scores = new int[20];Populate the array with trainees’ scores. Elements in an integer array are just integer variables.           scores[0] = 65;           scores[1] = 50;           scores[2] = 80;           scores[3] = 90; and so on till           scores[19] = 75;]]></text>
+        <w>868.9</w>
+        <h>437.3</h>
+        <annotations>r35-48 { color: #87234b; }
+ r166-198 { color: #87234b; }
+ r299-449 { color: #87234b; }
+r0-35 { bullet: true; }
+r0-35 { align: left; }
+r0-35 { blockIndent: 36; }
+r35-49 { bullet: true; }
+r35-49 { align: left; }
+r35-49 { blockIndent: 72; }
+r50-166 { bullet: true; }
+r50-166 { align: left; }
+r50-166 { blockIndent: 36; }
+r166-199 { align: left; }
+r200-299 { bullet: true; }
+r200-299 { align: left; }
+r200-299 { blockIndent: 36; }
+r299-326 { align: left; }
+r326-353 { align: left; }
+r353-380 { align: left; }
+r380-422 { align: left; }
+r422-449 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="213" type="label" x="24653.55743543691" y="5996.968636883378" r="45.12817571656005" s="4.2204418736427805" class="strong">
+      <textfield>
+        <x>-121.25</x>
+        <y>-15.7</y>
+        <text><![CDATA[Lets do it using Arrays]]></text>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="216" type="label" x="20923.974586501532" y="2891.121860530101" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-391.65</x>
+        <y>-187.7</y>
+        <text><![CDATA[Array length is the number of elements it holds. This is defined when the array is initialized.Length or size of an array can be retrieved bymyArray.lengthNote that length is an instance variable of the array object, not a method. There are no ()’s after the length.Once defined , the length of an array is fixed and cannot be increased to accommodate more elements.]]></text>
+        <w>783.3</w>
+        <h>375.4</h>
+        <annotations>r144-158 { color: #87234b; }
+ r0-96 { bullet: true; }
+r0-96 { align: left; }
+r0-96 { blockIndent: 36; }
+r97-144 { bullet: true; }
+r97-144 { align: left; }
+r97-144 { blockIndent: 36; }
+r144-159 { bullet: true; }
+r144-159 { align: left; }
+r144-159 { blockIndent: 72; }
+r160-237 { bullet: true; }
+r160-237 { align: left; }
+r160-237 { blockIndent: 36; }
+r238-274 { bullet: true; }
+r238-274 { align: left; }
+r238-274 { blockIndent: 36; }
+r275-375 { bullet: true; }
+r275-375 { align: left; }
+r275-375 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="217" type="label" x="20984.339975122548" y="2295.2315019903717" r="45.128177150614555" s="4.213529215561334" class="strong">
+      <textfield>
+        <x>-68.4</x>
+        <y>-15.7</y>
+        <text><![CDATA[Array length]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="221" type="label" x="22457.905058770182" y="1825.6965172702205" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-433.75</x>
+        <y>-110.3</y>
+        <text><![CDATA[Array can also  be initialized by declaring it and giving values to elements in one line.int[] scores = {76, 55, 40, 95, 80};String[] remarks = {“good”, “average”, “poor”};The compiler will count the elements, allocate the space and fill it.In the above ‘scores’ array, scores.length will equal to 5.In ‘remarks’ array, remarks.length will equal to 3;]]></text>
+        <annotations>r90-174 { color: #87234b; }
+ r0-90 { bullet: true; }
+r0-90 { align: left; }
+r0-90 { blockIndent: 36; }
+r90-127 { bullet: true; }
+r90-127 { align: left; }
+r90-127 { blockIndent: 72; }
+r127-175 { bullet: true; }
+r127-175 { align: left; }
+r127-175 { blockIndent: 72; }
+r176-246 { bullet: true; }
+r176-246 { align: left; }
+r176-246 { blockIndent: 36; }
+r246-306 { bullet: true; }
+r246-306 { align: left; }
+r246-306 { blockIndent: 36; }
+r306-357 { bullet: true; }
+r306-357 { align: left; }
+r306-357 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="222" type="label" x="22563.98019704254" y="1561.4989174656478" r="45.12644097524876" s="4.213529198973992" class="strong">
+      <textfield>
+        <x>-151.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[Initializing the array with {}]]></text>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="223" type="label" x="22080.462940548627" y="1901.6681809021802" r="45.12818078276357" s="4.213529216158895" class="strong">
+      <textfield>
+        <x>-127.6</x>
+        <y>-15.7</y>
+        <text><![CDATA[Iterating over the array]]></text>
+        <annotations>r0-24 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="225" type="label" x="22112.348857766417" y="2196.404963532739" r="45.12817289726585" s="1.658745244058763" class="body">
+      <textfield>
+        <x>-445.15</x>
+        <y>-63.9</y>
+        <text><![CDATA[You can retrieve the array elements by going over the array starting from the first element till the last. This is called iterating over the array.Using a for loop:]]></text>
+        <w>890.35</w>
+        <h>127.8</h>
+        <annotations>r0-148 { bullet: true; }
+r0-148 { align: left; }
+r0-148 { blockIndent: 36; }
+r149-166 { bullet: true; }
+r149-166 { align: left; }
+r149-166 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="226" type="label" x="22206.461825852726" y="2400.3163943864033" r="45.128170587646146" s="1.5097874671252915" class="body">
+      <textfield>
+        <x>-155.25</x>
+        <y>-17.45</y>
+        <text><![CDATA[Using the enhanced for loop:]]></text>
+        <annotations>r0-28 { bullet: true; }
+r0-28 { align: left; }
+r0-28 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="296" type="label" x="21690.583334120376" y="2027.1917481856422" r="45.126239795049315" s="1.3259675376677709" class="body">
+      <textfield>
+        <x>-172.85</x>
+        <y>-48.4</y>
+        <text><![CDATA[for (int i = 0; i < scores.length; i++) {      System.out.println(scores[i]);}]]></text>
+        <annotations>r0-80 { color: #87234b; }
+r0-42 { align: left; }
+r42-79 { align: left; }
+r79-80 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="297" type="label" x="22159.444951644626" y="2497.7961984522285" r="45.12817243793175" s="1.3281531930450698" class="body">
+      <textfield>
+        <x>-140.15</x>
+        <y>-48.4</y>
+        <text><![CDATA[for (int score : scores) {      System.out.println(score);}]]></text>
+        <annotations>r0-61 { color: #87234b; }
+r0-27 { align: left; }
+r27-60 { align: left; }
+r60-61 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="120" type="image" x="27356.84945814493" y="-3814.4271156192453" r="45.12505551176163" s="4.374328695212877">
+      <source w="606" h="155">
+        variable.png
+        <url>variable.png</url>
+      </source>
+      <sourceUrl>variable.png</sourceUrl>
+    </object>
+    <object id="127" type="image" x="20788.350511279514" y="-4612.644511610512" r="45.12510956623589" s="2.834060561044692">
+      <source w="390" h="275">
+        variableTypeSize.png
+        <url>variableTypeSize.png</url>
+      </source>
+      <sourceUrl>variableTypeSize.png</sourceUrl>
+    </object>
+    <object id="118" type="label" x="23576.882899021934" y="-7338.395310793673" r="45.12579899726744" s="9.306205771081432" class="body">
+      <textfield>
+        <x>-119.95</x>
+        <y>-17.45</y>
+        <text><![CDATA[A Variable is a container.]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="180" type="image" x="25619.79975172368" y="-611.6154630558334" r="45.12524075441918" s="1.501573615785261">
+      <source w="451" h="363">
+        box2.png
+        <url>box2.png</url>
+      </source>
+      <sourceUrl>box2.png</sourceUrl>
+    </object>
+    <object id="123" type="label" x="21136.917059747317" y="-5724.096483202164" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-266.1</x>
+        <y>-17.45</y>
+        <text><![CDATA[Primitives are simple bit patterns or fundamental values.]]></text>
+        <annotations>r0-57 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="125" type="label" x="20984.181535782333" y="-5636.004210043937" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-243.4</x>
+        <y>-32.95</y>
+        <text><![CDATA[Variable of a given type cannot hold more than the maximum value range for that type.]]></text>
+        <w>486.85</w>
+        <h>65.9</h>
+        <annotations>r0-85 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="135" type="label" x="21349.938752663205" y="-5848.312925928871" r="45.12630148712308" s="5.914289140206687" class="strong">
+      <textfield>
+        <x>-102.75</x>
+        <y>-15.7</y>
+        <text><![CDATA[Primitive Variables]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="139" type="label" x="21910.972456356158" y="-4679.9416213658305" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-209.7</x>
+        <y>-110.3</y>
+        <text><![CDATA[Primitive declarations with assignments:int  x = 34;boolean isFun = true;char c = ‘f’;double number = 323.42;float f = 24.42f;long num = 5555L;]]></text>
+        <annotations>r41-149 { color: #87234b; }
+r0-41 { align: left; }
+r41-54 { bullet: true; }
+r41-54 { align: left; }
+r41-54 { blockIndent: 36; }
+r54-76 { bullet: true; }
+r54-76 { align: left; }
+r54-76 { blockIndent: 36; }
+r76-90 { bullet: true; }
+r76-90 { align: left; }
+r76-90 { blockIndent: 36; }
+r90-114 { bullet: true; }
+r90-114 { align: left; }
+r90-114 { blockIndent: 36; }
+r114-132 { bullet: true; }
+r114-132 { align: left; }
+r114-132 { blockIndent: 36; }
+r132-149 { bullet: true; }
+r132-149 { align: left; }
+r132-149 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="201" type="image" x="24582.259732341223" y="-3505.668451379868" r="45.12524154655023" s="0.8446298167168758">
+      <source w="947" h="87">
+        refVariable.png
+        <url>refVariable.png</url>
+      </source>
+      <sourceUrl>refVariable.png</sourceUrl>
+    </object>
+    <object id="124" type="image" x="23696.623430387634" y="-3298.6674533920573" r="45.12474209987713" s="1.1032002356010826">
+      <source w="901" h="688">
+        RemoteANdRefVariable.png
+        <url>RemoteANdRefVariable.png</url>
+      </source>
+      <sourceUrl>RemoteANdRefVariable.png</sourceUrl>
+    </object>
+    <object id="157" type="label" x="23586.349649599637" y="-4221.457780625511" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-232.8</x>
+        <y>-125.8</y>
+        <text><![CDATA[These are like remote control which point to the actual objects in the heap.There is “no” such thing as an object variable. There is only an object “reference” variable. An object reference variable holds bits that represent a way to access an object.]]></text>
+        <w>465.65</w>
+        <h>251.6</h>
+        <annotations>r86-91 { color: #87234b; }
+ r150-161 { color: #87234b; }
+ r0-77 { align: left; }
+r78-173 { align: left; }
+r174-255 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="163" type="label" x="24007.996343740517" y="-4535.801431607383" r="45.12630148712308" s="5.914289140206687" class="strong">
+      <textfield>
+        <x>-106.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Reference Variables]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="167" type="label" x="25902.336705157864" y="-894.5881246756039" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-212.5</x>
+        <y>-17.45</y>
+        <text><![CDATA[Local variables are declared within a method.]]></text>
+        <annotations>r0-45 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="181" type="image" x="24724.37982051196" y="-1511.1548171130823" r="45.12494094568198" s="1.669805503000778">
+      <source w="393" h="226">
+        box1.png
+        <url>box1.png</url>
+      </source>
+      <sourceUrl>box1.png</sourceUrl>
+    </object>
+    <object id="168" type="label" x="25029.217111081074" y="-1727.1868574930133" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-243.4</x>
+        <y>-32.95</y>
+        <text><![CDATA[Instance variables are declared inside a class but not within a method.]]></text>
+        <w>486.85</w>
+        <h>65.9</h>
+        <annotations>r0-71 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="169" type="label" x="25428.88034676745" y="-1754.3195945044274" r="45.12630148712308" s="5.914289140206687" class="strong">
+      <textfield>
+        <x>-142.7</x>
+        <y>-15.7</y>
+        <text><![CDATA[Instance & Local Variables]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="171" type="label" x="26892.820240497167" y="-3204.277216460379" r="45.12579757930392" s="6.849559496664489" class="body">
+      <textfield>
+        <x>-114.35</x>
+        <y>-48.4</y>
+        <text><![CDATA[Variables must haveDATA TYPENAME]]></text>
+        <annotations>r0-20 { align: left; }
+r20-30 { bullet: true; }
+r20-30 { align: left; }
+r20-30 { blockIndent: 36; }
+r30-34 { bullet: true; }
+r30-34 { align: left; }
+r30-34 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="172" type="label" x="24123.34018341532" y="-5813.69393009241" r="45.12579899726744" s="9.306205771081432" class="body">
+      <textfield>
+        <x>-277.45</x>
+        <y>-17.45</y>
+        <text><![CDATA[Variables have a size, which is determined by the data type.]]></text>
+        <annotations>r0-60 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="174" type="label" x="23940.144696294457" y="-6496.290217563505" r="45.12579899726744" s="9.306205771081432" class="body">
+      <textfield>
+        <x>-211.6</x>
+        <y>-17.45</y>
+        <text><![CDATA[It is used to hold certain values in a program.]]></text>
+        <annotations>r0-47 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="176" type="label" x="24186.83474900553" y="-1291.6767210835264" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-74</x>
+        <y>-63.9</y>
+        <text><![CDATA[int 0float 0.0boolean falseReferences null]]></text>
+        <annotations>r0-45 { color: #87234b; }
+r0-6 { align: left; }
+r6-16 { align: left; }
+r16-30 { align: left; }
+r30-45 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="177" type="label" x="24461.09324691361" y="-1262.999200505039" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-207.8</x>
+        <y>-17.45</y>
+        <text><![CDATA[Instance variables always get a default value.]]></text>
+        <annotations>r0-46 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="200" type="label" x="25341.817929320605" y="-334.5050570239307" r="45.12580978979409" s="2.0216902716761855" class="body">
+      <textfield>
+        <x>-213.2</x>
+        <y>-32.95</y>
+        <text><![CDATA[Local variables must be initialized before use.They do not get a default value.]]></text>
+        <w>426.45</w>
+        <h>65.9</h>
+        <annotations>r0-48 { align: left; }
+r48-80 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="255" type="label" x="26336.024789154908" y="1659.810528067589" r="45.12629213906052" s="1.9047846699626907" class="body">
+      <textfield>
+        <x>-307.65</x>
+        <y>-63.9</y>
+        <text><![CDATA[Write a program which accepts two employee objects; swaps them and prints their detail in the calling method.Demonstrate “SwapEmployee” example.]]></text>
+        <w>615.3</w>
+        <h>127.8</h>
+        <annotations>r0-110 { bullet: true; }
+r0-110 { align: left; }
+r0-110 { blockIndent: 36; }
+r111-146 { bullet: true; }
+r111-146 { align: left; }
+r111-146 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="151" type="image" x="26169.584262261527" y="811.605520239235" r="6.503178204103769" s="1.1956864073445583">
+      <source w="420" h="300">
+        _exercise.png
+        <url>_exercise.png</url>
+      </source>
+      <sourceUrl>exercise.png</sourceUrl>
+    </object>
+    <object id="234" type="label" x="26318.121143710876" y="1153.4780065830532" r="45.12817104493242" s="4.244775140656753" class="strong">
+      <textfield>
+        <x>-44.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Exercise]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="110" type="label" x="24039.406942937672" y="-7827.378724524925" r="45.12630377591357" s="22.32288953213861" class="strong">
+      <textfield>
+        <x>-50.45</x>
+        <y>-15.7</y>
+        <text><![CDATA[Variables]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="589" type="button" x="21195.38117628578" y="-4927.9784084687135" r="45.128172932650926" s="3.172534477924977">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="590" type="button" x="23832.089066269436" y="-3640.9360380864073" r="45.128172932650926" s="3.172534477924977">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="591" type="button" x="25121.7060759302" y="-983.868692885425" r="45.128172932650926" s="3.172534477924977">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="592" type="button" x="26351.82911334112" y="1807.2383341354484" r="45.12816993781435" s="1.8627881288730437">
+      <type>invisible</type>
+      <size>
+        <w>795</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="228" type="image" x="18110.80488135605" y="-1818.2102584451736" r="45.1251817529953" s="3.7557033636300443">
+      <source w="674" h="875">
+        methods.png
+        <url>methods.png</url>
+      </source>
+      <sourceUrl>methods.png</sourceUrl>
+    </object>
+    <object id="112" type="label" x="15341.3248242742" y="-6922.214773890128" r="45.12630377591357" s="22.32288953213861" class="strong">
+      <textfield>
+        <x>-48.4</x>
+        <y>-15.7</y>
+        <text><![CDATA[Methods]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="227" type="label" x="15618.316400800944" y="-4507.123911028895" r="45.12819702700132" s="6.718611607408928" class="body">
+      <textfield>
+        <x>-440.5</x>
+        <y>-125.8</y>
+        <text><![CDATA[A class describes what an object knows and what an object does.Methods determine behavior of the class.Methods are the basic unit of work in object oriented programming.Every instance of a class has the same  methods, but the methods can behave differently based on the values of the instance variables or based on parameter values passed into the method.]]></text>
+        <w>881</w>
+        <h>251.6</h>
+        <annotations>r0-64 { align: left; }
+r65-106 { align: left; }
+r107-174 { align: left; }
+r175-361 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="230" type="label" x="13759.783330271655" y="-2892.9439129425464" r="45.12817677332033" s="2.7564522534776366" class="body">
+      <textfield>
+        <x>-219.6</x>
+        <y>-187.7</y>
+        <text><![CDATA[A method uses parameters. A caller passes arguments.Variables are passed by value in Java. That means “copy the value, and pass the copy”.A copy of the variable value is passed to the method. You can change that copy inside the method, but this will have no effect on the actual variable.]]></text>
+        <w>439.2</w>
+        <h>375.4</h>
+        <annotations>r0-53 { bullet: true; }
+r0-53 { align: left; }
+r0-53 { blockIndent: 36; }
+r54-94 { bullet: true; }
+r54-94 { align: left; }
+r54-94 { blockIndent: 36; }
+r95-143 { bullet: true; }
+r95-143 { align: left; }
+r95-143 { blockIndent: 36; }
+r144-294 { bullet: true; }
+r144-294 { align: left; }
+r144-294 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="0" type="image" x="13010.880178921569" y="-3635.905589034656" r="45.12596439501056" s="1.1896924477909592">
+      <source w="667" h="987">
+        pass11.png
+        <url>pass11.png</url>
+      </source>
+      <sourceUrl>pass11.png</sourceUrl>
+    </object>
+    <object id="231" type="label" x="13908.122162545737" y="-3895.3500086328495" r="45.128178808506746" s="5.908619371719597" class="strong">
+      <textfield>
+        <x>-156.65</x>
+        <y>-15.7</y>
+        <text><![CDATA[Passing variables to methods]]></text>
+        <annotations>r0-28 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1" type="image" x="15299.33839911785" y="-1341.2286247350287" r="45.126339030468436" s="1.213601961904385">
+      <source w="803" h="1016">
+        pass22.png
+        <url>pass22.png</url>
+      </source>
+      <sourceUrl>pass22.png</sourceUrl>
+    </object>
+    <object id="235" type="label" x="16138.472754719032" y="-614.744640025033" r="45.12817677332033" s="2.7564522534776366" class="body">
+      <textfield>
+        <x>-218.6</x>
+        <y>-110.3</y>
+        <text><![CDATA[What happens when you pass an object instead of a primitive?An object reference variable is a reference to an object. So if you pass a reference to an object into a method, you are passing only a copy of the reference variable.]]></text>
+        <w>437.25</w>
+        <h>220.65</h>
+        <annotations>r0-61 { bullet: true; }
+r0-61 { align: left; }
+r0-61 { blockIndent: 36; }
+r62-229 { bullet: true; }
+r62-229 { align: left; }
+r62-229 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="236" type="label" x="16124.133994429789" y="-1636.0050172006406" r="45.12632939318627" s="5.898929821604419" class="strong">
+      <textfield>
+        <x>-145.4</x>
+        <y>-15.7</y>
+        <text><![CDATA[Passing reference variables]]></text>
+        <annotations>r0-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="593" type="button" x="13512.61795953994" y="-3277.080093288085" r="45.12817189430298" s="2.993991728074431">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="115" type="label" x="16177.726101256712" y="688.1812742135905" r="45.128181500632415" s="3.0146017587404748" class="strong">
+      <textfield>
+        <x>-33.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Demo]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="594" type="button" x="15791.569819323464" y="-963.3111884928353" r="45.12817189430298" s="2.993991728074431">
+      <type>invisible</type>
+      <size>
+        <w>794.3661971830986</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="595" type="button" x="16115.063342202615" y="1349.507080261139" r="45.12645069815986" s="1.5043617066281456" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>795.6873315363881</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="102" type="video" x="16117.87564049139" y="1339.9611100133277" r="45.12817433009199" s="3.0984709114596014" onFocus="start" onLeave="pause">
+      <source>
+        pass_by_value.flv
+        <url>pass_by_value.flv</url>
+      </source>
+    </object>
+    <object id="150" type="image" x="12371.498221493472" y="397.960012779092" r="9.761121616592574" s="6.011654346921255">
+      <source w="420" h="300">
+        exercise.png
+        <url>exercise.png</url>
+      </source>
+      <sourceUrl>exercise.png</sourceUrl>
+    </object>
+    <object id="152" type="label" x="14148.791520328732" y="1321.5029268785554" r="45.12630377591357" s="22.32288953213861" class="strong">
+      <textfield>
+        <x>-44.3</x>
+        <y>-15.7</y>
+        <text><![CDATA[Exercise]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="239" type="label" x="15712.904686907887" y="4059.097066742611" r="45.12817669841797" s="2.580817390449795" class="body">
+      <textfield>
+        <x>-423.25</x>
+        <y>-156.75</y>
+        <text><![CDATA[Draw the diagram of reference variable and the actual object variable for each step.Step#1 Employee e1 = new Employee();Employee e2 = new Employee();Step#2Employee e3 = e1;Step#3 e1 = e2;Step#4e3 =null;]]></text>
+        <annotations>r0-85 { bullet: true; }
+r0-85 { align: left; }
+r0-85 { blockIndent: 36; }
+r85-93 { bullet: true; }
+r85-93 { align: left; }
+r85-93 { blockIndent: 36; }
+r93-123 { bullet: true; }
+r93-123 { align: left; }
+r93-123 { blockIndent: 72; }
+r123-153 { bullet: true; }
+r123-153 { align: left; }
+r123-153 { blockIndent: 72; }
+r153-160 { bullet: true; }
+r153-160 { align: left; }
+r153-160 { blockIndent: 36; }
+r160-178 { bullet: true; }
+r160-178 { align: left; }
+r160-178 { blockIndent: 72; }
+r178-186 { bullet: true; }
+r178-186 { align: left; }
+r178-186 { blockIndent: 36; }
+r186-195 { bullet: true; }
+r186-195 { align: left; }
+r186-195 { blockIndent: 72; }
+r195-202 { bullet: true; }
+r195-202 { align: left; }
+r195-202 { blockIndent: 36; }
+r202-211 { bullet: true; }
+r202-211 { align: left; }
+r202-211 { blockIndent: 72; }</annotations>
+      </textfield>
+    </object>
+    <object id="240" type="label" x="16032.516445951831" y="3400.7419983240493" r="45.12818333935915" s="6.718612672255596" class="strong">
+      <textfield>
+        <x>-113.95</x>
+        <y>-29.45</y>
+        <text><![CDATA[Exercise – Reference Variables]]></text>
+        <w>227.95</w>
+        <h>58.9</h>
+        <annotations>r0-30 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="243" type="label" x="16088.366313376784" y="7269.394978131069" r="45.12817669841797" s="2.580817390449795" class="body">
+      <textfield>
+        <x>-389.55</x>
+        <y>-141.25</y>
+        <text><![CDATA[The HR and finance department need a program which will increment the salary of an employee by desired %.Write a method which accepts an object of the Employee class(add a member variable in the employee class for storing employee’s salary) and % increment as parameters. It calculates the new salary after adding the increment and sets it in the employee object. The calling method  should print the employee’s new salary.]]></text>
+        <w>779.1</w>
+        <h>282.55</h>
+        <annotations>r0-106 { bullet: true; }
+r0-106 { align: left; }
+r0-106 { blockIndent: 36; }
+r107-367 { bullet: true; }
+r107-367 { align: left; }
+r107-367 { blockIndent: 36; }
+r368-427 { bullet: true; }
+r368-427 { align: left; }
+r368-427 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="244" type="label" x="16570.457615808788" y="6789.442606791938" r="45.12818333935915" s="6.718612672255596" class="strong">
+      <textfield>
+        <x>-150.8</x>
+        <y>-29.45</y>
+        <text><![CDATA[Exercise – Salary Increment (pass reference)]]></text>
+        <w>301.65</w>
+        <h>58.9</h>
+        <annotations>r0-44 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="246" type="label" x="12863.33354334855" y="6466.345182263317" r="45.12817669841797" s="2.580817390449795" class="body">
+      <textfield>
+        <x>-278</x>
+        <y>-110.3</y>
+        <text><![CDATA[Write a program that reads a series of 15 temperatures.Print them on console in the order they were entered.Print out the highest  temperature.Print out the average of all temperatures.]]></text>
+        <annotations>r0-56 { bullet: true; }
+r0-56 { align: left; }
+r0-56 { blockIndent: 36; }
+r57-111 { bullet: true; }
+r57-111 { align: left; }
+r57-111 { blockIndent: 36; }
+r112-148 { bullet: true; }
+r112-148 { align: left; }
+r112-148 { blockIndent: 36; }
+r149-191 { bullet: true; }
+r149-191 { align: left; }
+r149-191 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="247" type="label" x="13090.575167048528" y="6011.624275853048" r="45.12818333935915" s="6.718612672255596" class="strong">
+      <textfield>
+        <x>-81.65</x>
+        <y>-15.7</y>
+        <text><![CDATA[Arrays Exercise]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="249" type="label" x="12498.289303498635" y="3623.4284909929106" r="45.12817669841797" s="2.580817390449795" class="body">
+      <textfield>
+        <x>-389.55</x>
+        <y>-94.85</y>
+        <text><![CDATA[The HR and finance department need a program which will increment the salary of an employee by desired %.Write a method which accepts the salary and % increment as parameters. It calculates the new salary after adding the increment and return it to the calling method. The calling method then prints the revised salary.]]></text>
+        <w>779.1</w>
+        <h>189.7</h>
+        <annotations>r0-106 { bullet: true; }
+r0-106 { align: left; }
+r0-106 { blockIndent: 36; }
+r107-321 { bullet: true; }
+r107-321 { align: left; }
+r107-321 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="250" type="label" x="12961.526324445333" y="3161.4985946029665" r="45.12818333935915" s="6.718612672255596" class="strong">
+      <textfield>
+        <x>-150.8</x>
+        <y>-29.45</y>
+        <text><![CDATA[Exercise – Salary Increment (pass primitive)]]></text>
+        <w>301.65</w>
+        <h>58.9</h>
+        <annotations>r0-44 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="596" type="button" x="15783.76668181799" y="4129.285694456808" r="45.12817612282362" s="3.1343072467748194">
+      <type>invisible</type>
+      <size>
+        <w>791.6230366492147</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="598" type="button" x="16170.477501441985" y="7352.021094051959" r="45.12817612282362" s="3.1343072467748194">
+      <type>invisible</type>
+      <size>
+        <w>791.6230366492147</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="599" type="button" x="12566.655878800388" y="3729.622458770431" r="45.12817612282362" s="3.1343072467748194">
+      <type>invisible</type>
+      <size>
+        <w>791.6230366492147</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="600" type="button" x="12952.455672218159" y="6946.772871623087" r="45.12817612282362" s="3.1343072467748194">
+      <type>invisible</type>
+      <size>
+        <w>791.6230366492147</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="601" type="button" x="7430.369347787109" y="651.4629571193118" r="75.10771995851032" s="3.8130303315015075">
+      <type>invisible</type>
+      <size>
+        <w>816.9785714285715</w>
+        <h>567.4499999999998</h>
+      </size>
+    </object>
+    <object id="602" type="label" x="19625.841462304343" y="-10950.020070940742" r="45.12632181310152" s="33.781707755130086" class="head">
+      <textfield>
+        <x>-54.6</x>
+        <y>-48.4</y>
+        <text><![CDATA[Variables,Methods &Arrays]]></text>
+        <w>109.25</w>
+        <h>96.85</h>
+        <annotations>r0-27 { color: #c5c3c3; }
+r0-11 { align: left; }
+r11-21 { align: left; }
+r21-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="603" type="button" x="1750.8339290197493" y="-22257.915001586778" r="45.12817612282362" s="3.1343072467748194">
+      <type>invisible</type>
+      <size>
+        <w>791.6230366492147</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="604" type="label" x="-55.69142808474204" y="-29383.050960454242" r="45.12632181310152" s="33.781707755130086" class="head">
+      <textfield>
+        <x>-37.8</x>
+        <y>-32.95</y>
+        <text><![CDATA[GettingStarted]]></text>
+        <annotations>r0-15 { color: #c5c3c3; }
+r0-8 { align: left; }
+r8-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="605" type="label" x="-31336.370366265746" y="553.4286153627424" r="-44.8805063049283" s="33.781707666537045" class="head">
+      <textfield>
+        <x>-52</x>
+        <y>-48.4</y>
+        <text><![CDATA[Operators,Loops &Keywords]]></text>
+        <annotations>r0-27 { color: #c5c3c3; }
+r0-11 { align: left; }
+r11-19 { align: left; }
+r19-27 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="606" type="label" x="-12999.195277580888" y="16402.036597162754" r="-44.8805063049283" s="33.781707666537045" class="head">
+      <textfield>
+        <x>-31.15</x>
+        <y>-17.45</y>
+        <text><![CDATA[OOPS]]></text>
+        <annotations>r0-4 { color: #c5c3c3; }
+r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5" type="button" x="35976.62293290831" y="30948.431641755098" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="6" type="button" x="37734.46780273246" y="30947.758274559197" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="7" type="button" x="36857.466444820464" y="31824.79924230625" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="9" type="button" x="36153.441236585604" y="30927.59686851714" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="10" type="button" x="37911.32571624482" y="30926.96311115629" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="12" type="button" x="37034.28474849777" y="31803.96446906829" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="14" type="button" x="36348.71772339768" y="30903.989406825454" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="15" type="button" x="38106.60220305689" y="30903.316039629553" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="16" type="button" x="37229.521625474794" y="31780.357007376606" r="45.12817698182482" s="2.123154909415846" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="26" type="button" x="-21463.222880915244" y="12021.505718963755" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="27" type="button" x="-18493.1586191242" y="12020.475863252374" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="28" type="button" x="-19974.96254846289" y="13502.359012261171" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="29" type="button" x="-21164.683554119583" y="11986.411405106657" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="30" type="button" x="-18194.42124315327" y="11985.30232972517" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="31" type="button" x="-19676.264782327013" y="13467.225088569017" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="32" type="button" x="-20834.57518878655" y="11946.484691373073" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="33" type="button" x="-17864.392097490345" y="11945.375615991583" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="34" type="button" x="-19346.314856334193" y="13427.337984670487" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="35" type="button" x="-2018.0022664533092" y="28400.766660970945" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="36" type="button" x="951.3886281418344" y="28399.69719542451" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="37" type="button" x="-529.8211536710594" y="29881.461514928145" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="38" type="button" x="-1719.423329822594" y="28365.632737278793" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="40" type="button" x="1250.2052237828686" y="28364.642491402465" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="41" type="button" x="-231.08377770013163" y="29846.367201071043" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="42" type="button" x="-1389.3941841596704" y="28325.706023545208" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="43" type="button" x="1580.194759610739" y="28324.636557998772" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="44" type="button" x="98.35122043699467" y="29806.440487337466" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="45" type="button" x="17517.607991599936" y="12067.849225975951" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="46" type="button" x="20487.632643555928" y="12066.898589934677" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="47" type="button" x="19005.907933887345" y="13548.742129108421" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="48" type="button" x="17816.30575773581" y="12032.754912118853" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="49" type="button" x="20786.52845886707" y="12031.764666242525" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="50" type="button" x="19304.64530985827" y="13513.608205416269" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="51" type="button" x="18146.255683728625" y="11992.828198385268" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="52" type="button" x="21116.43877502483" y="11991.758732838833" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="53" type="button" x="19634.595235851088" y="13473.64188184763" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="82" type="button" x="-5435.57844467495" y="-3634.677684148008" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="80" type="button" x="2786.8291648351324" y="-1629.3505649117099" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="84" type="button" x="-3497.508825358917" y="-1625.746069921872" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="85" type="button" x="-3322.8294527744843" y="2200.365947038055" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="86" type="button" x="4850.303521929469" y="4158.042434705402" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="87" type="button" x="2943.525672305431" y="2204.5645895536895" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="88" type="button" x="6686.298596313512" y="6089.417991897452" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="89" type="button" x="10436.59738898169" y="9936.404391930395" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="90" type="button" x="8529.819539357652" y="7982.926546778683" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="91" type="button" x="12272.632073200786" y="11867.740339287391" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="92" type="button" x="-5204.692716150085" y="4132.850579611593" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="93" type="button" x="-7135.909834001923" y="6039.192721050046" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="94" type="button" x="-9097.666134679746" y="7935.473964384996" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="95" type="button" x="-10979.569007890399" y="9867.87937728843" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="96" type="button" x="-12910.786125742237" y="11774.261128561935" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="97" type="button" x="8571.726744843896" y="-7378.36163436231" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="98" type="button" x="6689.8634814682955" y="-5445.916611623826" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="99" type="button" x="4758.646363616457" y="-3539.6140800204257" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="100" type="button" x="14340.582341656129" y="-13166.626050350593" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="101" type="button" x="12458.719078280528" y="-11234.141417777055" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="103" type="button" x="10527.501960428692" y="-9327.799276338601" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="104" type="button" x="-14908.7854254937" y="13680.009122474592" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="105" type="button" x="-16790.688298704354" y="15612.454145213076" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="106" type="button" x="16200.105658061746" y="-15096.377604305462" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="107" type="button" x="14264.650287859224" y="13754.000294353891" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="108" type="button" x="16100.724581913373" y="15685.33624171089" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="109" type="button" x="-9252.738638912864" y="-7499.765778800243" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="111" type="button" x="-7416.703954693769" y="-5568.4694412783" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="113" type="button" x="-13031.398073479108" y="-11304.567704501571" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="114" type="button" x="-11195.36338926001" y="-9373.231757144575" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="117" type="button" x="-16857.510090439035" y="-15138.324419626759" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="119" type="button" x="-15021.515016054991" y="-13207.028082104816" r="45.12817930411731" s="3.5873408555183808" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>557.2142857142858</w>
+        <h>555.325</h>
+      </size>
+    </object>
+    <object id="2" type="label" x="-22954.3" y="-7816.8" r="-44.89839597400913" s="3.936600065142037" class="body">
+      <textfield>
+        <x>-60.95</x>
+        <y>-17.45</y>
+        <text><![CDATA[<Self Study>]]></text>
+        <annotations>r0-12 { color: #f00; }
+r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>3</o>
+    <o>116</o>
+    <o>298</o>
+    <o>299</o>
+    <o>300</o>
+    <o>301</o>
+    <o>116</o>
+    <o>309</o>
+    <o>351</o>
+    <o>358</o>
+    <o>362</o>
+    <o>363</o>
+    <o>357</o>
+    <o>354</o>
+    <o>355</o>
+    <o>356</o>
+    <o>365</o>
+    <o>366</o>
+    <o>459</o>
+    <o>309</o>
+    <o>412</o>
+    <o>547</o>
+    <o>522</o>
+    <o>526</o>
+    <o>527</o>
+    <o>528</o>
+    <o>529</o>
+    <o>469</o>
+    <o>552</o>
+    <o>554</o>
+    <o>555</o>
+    <o>550</o>
+    <o>553</o>
+    <o>551</o>
+    <o>559</o>
+    <o>558</o>
+    <o>412</o>
+    <o>184</o>
+    <o>564</o>
+    <o>589</o>
+    <o>590</o>
+    <o>591</o>
+    <o>592</o>
+    <o>566</o>
+    <o>593</o>
+    <o>594</o>
+    <o>566</o>
+    <o>567</o>
+    <o>568</o>
+    <o>583</o>
+    <o>584</o>
+    <o>585</o>
+    <o>586</o>
+    <o>587</o>
+    <o>588</o>
+    <o>567</o>
+    <o>565</o>
+    <o>596</o>
+    <o>599</o>
+    <o>598</o>
+    <o>600</o>
+    <o>601</o>
+    <o>184</o>
+    <o>3</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('VL-PGothic-Regular.swf');
+	fontFamily: gothic;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('Fontin.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #322c9b;
+}
+
+.line5
+{
+	gradEndColor: #322c9b;
+	gradStartColor: #322c9b;
+	color: #322c9b;
+}
+
+.poly5
+{
+	borderColor: #322c9b;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #60c;
+}
+
+.line1
+{
+	gradEndColor: #60c;
+	gradStartColor: #60c;
+	color: #60c;
+}
+
+.poly1
+{
+	borderColor: #60c;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #322c69;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #eafaff;
+}
+
+Grid
+{
+	color: #cbf2ff;
+}
+
+ZFrame.circle
+{
+	gradEndColor: #b29de0;
+	gradStartColor: #b29de0;
+	borderColor: #fff;
+	borderThickness: 0;
+}
+
+.line4
+{
+	gradEndColor: #b29de0;
+	gradStartColor: #b29de0;
+	color: #b29de0;
+}
+
+.poly4
+{
+	borderColor: #b29de0;
+}
+
+ZFrame.bracket
+{
+	color: #b0d8be;
+}
+
+.line2
+{
+	gradEndColor: #b0d8be;
+	gradStartColor: #b0d8be;
+	color: #b0d8be;
+}
+
+.poly2
+{
+	borderColor: #b0d8be;
+}
+
+ZFrame.roundrect
+{
+	color: #b0d8be;
+}
+
+ZPoly
+{
+	gradEndColor: #288acc;
+	lockTintAlpha: 0.75;
+	borderColor: #288acc;
+	radius: 0;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	thickness: 100;
+	gradStartColor: #288acc;
+	gradStartAlpha: 0.2;
+	gradEndAlpha: 0.4;
+}
+
+ZCircle
+{
+	gradEndColor: #288acc;
+	lockTintAlpha: 0.75;
+	borderColor: #288acc;
+	radius: 0;
+	borderThickness: 2;
+	borderAlpha: 0.7;
+	thickness: 100;
+	gradStartColor: #288acc;
+	gradStartAlpha: 0.2;
+	gradEndAlpha: 0.4;
+}
+
+ZArrow
+{
+	color: #454faf;
+}
+
+.line3
+{
+	gradEndColor: #454faf;
+	gradStartColor: #454faf;
+	color: #454faf;
+}
+
+.poly3
+{
+	borderColor: #454faf;
+}
+
+ZLine
+{
+	color: #454faf;
+}
+
+ZCurveLine
+{
+	color: #454faf;
+}
+
+ZMarker
+{
+	color: #ff6;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+Logo
+{
+	src: url('sapient_blue5.JPG');
+	visibility: visible;
+}
+
+]]></style>
+  <hash>bf4634c605433e874834ece44b58e432</hash>
+  <sync>
+    <oid>UNKNOWN</oid>
+    <hash>UNKNOWN</hash>
+  </sync>
+  <config>uPkCpN8sg5M9awAbC6UAHi49B1kNqHO7mQ==</config>
+</zuiprezi>
